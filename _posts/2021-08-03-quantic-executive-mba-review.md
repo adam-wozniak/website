@@ -87,7 +87,7 @@ After being selected in their admissions process, I was invited to an interview,
 
 And today, 13 months later, I am thrilled to be officially graduating.
 
-![](/website/images/quantic-graduation.png)
+![](/images/quantic-graduation.png)
 
 ## So, what did I think of the Quantic EMBA?
 Quantic was one of the best career decisions I have made. I absolutely loved it and do not regret doing this. I felt it was an excellent investment in myself, and, with a partial scholarship, even more so.
@@ -101,7 +101,7 @@ But enough hype. How about some specifics? What did I like?
 ### The App
 Quantic’s app is modern, sleek, works beautifully on all devices, and is a joy to use. I loved being able to do most of my studying on a smartphone. In the mornings, during lunch, at night, at home, outdoors in the sun, or practically anywhere. No need to buy large, heavy, dated, over-priced textbooks either. Everything you need is delivered through the app.
 
-![](/website/images/quantic-app-01.png)
+![](/images/quantic-app-01.png)
 
 ### The Curriculum
 [Quantic’s curriculum](https://quantic.edu/executive-mba/curriculum) is well designed and snackable. Lessons are broken down into 10-15 minute interactive modules, making it easy to make the most of pockets of time throughout the day and week.
@@ -137,7 +137,7 @@ It’s also mandatory to complete at least 3 out of the 9 available electives:
 
 Even though I only needed to complete 3 specializations, I enjoyed the program so much I ended up completing all 9 specializations. That’s something I wouldn’t have previously done in a more traditional university education.
 
-![](/website/images/quantic-app-02.png)
+![](/images/quantic-app-02.png)
 
 ### Assignments and Exams
 There were two aspects that I loved about Quantic’s assignments.
@@ -148,7 +148,7 @@ The other aspect I liked was the format of the assignments. They were all very p
 
 And the exams were also a breath of fresh air. All delivered through an interactive app. I’ve never enjoyed exams as much as I did this time.
 
-![](/website/images/quantic-app-03.png)
+![](/images/quantic-app-03.png)
 
 ### The Capstone
 The EMBA culminates in a 4-month long [capstone project](https://support.quantic.edu/article/498-what-is-the-capstone-project), which consists of two parts: a business plan, and a presentation.
@@ -159,7 +159,7 @@ I ended up writing a thoroughly researched 70+ page business plan for a business
 
 I can honestly say that the capstone was the most enjoyable project I have worked on in all of my educational experiences combined. It was a great opportunity to combine all the things I learned throughout the EMBA, and apply it to something that had the potential for real-world value.
 
-![](/website/images/quantic-capstone.png)
+![](/images/quantic-capstone.png)
 
 ### Duration and Pace
 At 13 months long, part-time, the duration of Quantic’s program felt just right. I really can’t justify an education lasting longer than that any more, or being full-time throughout. Life moves fast. Many of us are are in quickly evolving industries, and/or have life circumstances that don’t allow the luxury to quit a job and study full-time for 2 years. The quicker we can learn things and apply them, the better.
