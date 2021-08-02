@@ -42,10 +42,15 @@
 	<style>{{ site.data.settings.advanced_settings.custom_styles }}</style>
 	{% endif %}
 
-	{% if site.data.settings.advanced_settings.analytics_code %}
 	<!-- Analytics Code -->
-	{{ site.data.settings.advanced_settings.analytics_code }}
-	{% endif %}
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-H0P3B62TRQ"></script>
+	<script>
+  		window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+
+  		gtag('config', 'G-H0P3B62TRQ');
+	</script>"  
 
 	{% if site.data.settings.advanced_settings.header_js %}
 	<!-- Extra Header JS Code -->
