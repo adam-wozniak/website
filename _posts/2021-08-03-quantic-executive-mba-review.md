@@ -169,7 +169,7 @@ But while Quantic’s program is accelerated compared to many other MBAs, the pa
 It’s likely that more traditional (and much longer and more expensive) MBAs go into far more depth and repetition, but is that really necessary? If you end up forgetting most of the details of your MBA once you complete it, why bother spending years on it?
 
 ### The Price
-At USD$9,600 (but often lower with a scholarship), compared to $25k+, $80k+, and $115+k options at traditional universities, this one is a no-brainer. Quantic’s EMBA has instantly paid for itself.
+At USD$9,600 (but often lower with a scholarship), compared to $25k+, $80k+, and $115k+ options at traditional universities, this one is a no-brainer. Quantic’s EMBA has instantly paid for itself.
 
 
 ## Why Quantic might not be a fit
