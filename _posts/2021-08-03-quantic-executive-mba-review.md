@@ -211,7 +211,7 @@ The EMBA also helped me discover and reinforce a few areas that really interest 
 
 As a result, this exploration led to a number of new career opportunities, directly and indirectly. Through fortunate timing, I accepted a promotion into a role that feels like a much better fit than the one I was in when I started the EMBA. A new role where I can utilize my strengths and provide an opportunity to apply some of the things I have learned during the EMBA.
 
-Lastly, my EMBA journey bacome another way to connect with friends and colleagues who were interested in pursuing something similar. Some of them are now also pursuing their EMBAs with Quantic.
+Lastly, my EMBA journey became another way to connect with friends and colleagues who were interested in pursuing something similar. Some of them are now also pursuing their EMBAs with Quantic.
 
 I continue to encourage anyone who has thought about an MBA or an EMBA to consider Quantic. I really believe that companies like this represent the future of education.
 
