@@ -17,7 +17,7 @@ The result of exploring this led to creating my own framework called [The PTAR F
 
 To read more about this, head on over to [Rangle’s blog](https://rangle.io/blog/measuring-team-health-and-engagement).
 
-![](/test/images/ptar-framework-chart-01.png)
+![](/images/ptar-framework-chart-01.png)
 
-![](/test/images/ptar-framework-chart-02.png)
+![](/images/ptar-framework-chart-02.png)
 
