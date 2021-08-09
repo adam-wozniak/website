@@ -1,11 +1,11 @@
 ---
 title: Overhauling day-to-day business operations
 date: 2021-08-06 00:00:00
-description: In 2018, I worked for an insurtech professional services company in Toronto. Due to corporate restructuring, there was a need to find as many operational efficiencies as quickly as possible, due to a looming cut-off for the old systems. I single-handedly implemented a new ERP system company-wide, removing reliance on manual spreadsheets, as well as enabling new capabilities in the areas of...
+description: In 2018, I worked for an insurtech professional services company in Toronto. Due to corporate restructuring, there was a need to find as many operational efficiencies as quickly as possible, before a fast-approaching cut-off for the old systems. I single-handedly implemented a new ERP system company-wide, removing reliance on manual spreadsheets, as well as enabling new capabilities in the areas of...
 featured_image: /images/pexels-fauxels-3184292.jpg
 ---
 
-In 2018, I worked for an insurtech professional services company in Toronto. Due to corporate restructuring, there was a need to find as many operational efficiencies as quickly as possible, due to a looming cut-off for the old systems.
+In 2018, I worked for an insurtech professional services company in Toronto. Due to corporate restructuring, there was a need to find as many operational efficiencies as quickly as possible, before a fast-approaching cut-off for the old systems.
 
 I single-handedly implemented a new ERP system company-wide, removing reliance on manual spreadsheets (eg. resource management, project status reports, financial and utilization forecasting spreadsheets), as well as enabling new capabilities in the areas of project management, finance, timesheet management, and Customer Relationship Management (CRM). I implemented the system in several phases, focusing on highest business impact first.
 
