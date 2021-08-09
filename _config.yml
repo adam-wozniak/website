@@ -15,7 +15,7 @@ collections:
     permalink: /work/:slug
   portfolios:
     output: true
-    permalink: /portfolio/:slug
+    permalink: /personal/:slug
 
 defaults:
   -
