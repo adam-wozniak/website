@@ -10,6 +10,8 @@ menu_settings:
   menu_items:
     - title: 'Work'
       url: '/work/'
+    - title: 'Personal'
+      url: '/personal/'
     - title: 'Blog'
       url: '/blog/'
 
