@@ -29,3 +29,5 @@ In June 2020, I decided to learn game development, using Unity and C#. I gave my
 </div>
 
 You can play all 43 prototypes in your browser [here](https://www.oncollisionenter.com/).
+
+And I'm now working on my [first indie video game release](http://www.adamwozniak.com/personal/first-indie-video-game).
