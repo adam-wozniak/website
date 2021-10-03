@@ -40,7 +40,7 @@ Particularly with this kind of subject matter (ie. programming), I felt it was c
 
 And that was it. Just five norms. And here’s what happened after 12 months...
 
-![](/test/images/pexels-vi-nowak-1002272.jpg)
+![](/images/pexels-vi-nowak-1002272.jpg)
 
 ## 12 months later
 Recently, I celebrated the 12-month milestone. It wasn’t easy, of course, but it was more fun and rewarding than I expected. And the results have blown me away.
@@ -90,7 +90,7 @@ What I didn’t do, though, was to start from day one thinking that I was going 
 
 So the goal has to be small, but challenging and achievable. At the start of learning something new, we have to accept that there’s so much we don’t know. As human beings, we are already predisposed to underestimating things. So don’t underestimate this. Be prepared that it will take longer and be more difficult than you expect (difficult doesn’t have to mean “not fun” though). As you continue learning this new thing, you’ll understand more and more about all the things you don’t understand. Even after a year of daily effort, I know I’m only scraping the surface.
 
-![](/test/images/pexels-olya-kobruseva-5417664.jpg)
+![](/images/pexels-olya-kobruseva-5417664.jpg)
 
 ### 3. Do something every day
 Having a strong why and how is an awesome start. But the danger is that it all stays theoretical, leaving us stuck in planning mode without ever truly getting started. There’s only one way forward here… regardless of whether you feel ready… (spoiler alert: you’ll never feel ready)…
@@ -229,7 +229,7 @@ However, after 12 months, these feelings are gone. A blank screen is full of exc
 
 After 12 months of learning game dev, I can now see how much it has helped me develop something even more valuable than game dev... the transferrable skill of learning how to learn.
 
-![](/test/images/pexels-ben-gursky-5218737.jpg)
+![](/images/pexels-ben-gursky-5218737.jpg)
 
 ### 8. It takes time, but time is going to pass anyway
 I saved the most impactful lesson to the end of this blog post. At least, it felt impactful to me, and really helped add that additional layer of motivation.
