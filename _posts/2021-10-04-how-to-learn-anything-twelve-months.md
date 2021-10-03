@@ -244,7 +244,7 @@ Forget about starting tomorrow or next week or next month. Start today. For 15 m
 
 But if we don’t start today, that year will pass anyway. And then, 12 months from now, instead of saying we have a year’s experience, we’ll still have none. And we’ll still be telling ourselves, “I’ll try this soon.” The problem is, we only have a finite number of years we can keep telling ourselves that.
 
-A year flies by. I can’t believe it’s already been 12-months of game dev. And yet here I am, genuinely surprised at how much I’ve learned during this time. (Want to try some of my prototypes? Check ‘em out [here](https://www.oncollisionenter.com/). Or you can play test my first indie game on iOS or Android [here](http://www.adamwozniak.com/personal/first-indie-video-game))
+A year flies by. I can’t believe it’s already been 12-months of game dev. And yet here I am, genuinely surprised at how much I’ve learned during this time. (Want to try some of my prototypes? Check ‘em out [here](https://www.oncollisionenter.com/). Or you can play test my first indie game on [iOS](https://testflight.apple.com/join/2nc6yLXm) and [Android](https://play.google.com/store/apps/details?id=com.AdamWozniak.Shuffleboard).)
 
 As an old Chinese proverb says:
 
