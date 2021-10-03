@@ -54,7 +54,7 @@ Here’s what I’ve accomplished in my first 12 months of learning game develop
 - 56 GitHub repos created
 - 884 GitHub contributions
 - 43 prototypes of various game genres
-- 1 prototype of a game that will become my [first indie video game release](http://www.adamwozniak.com/personal/first-indie-video-game) (now available for play testing on iOS and Android)
+- 1 prototype of a game that will become my [first indie video game release](http://www.adamwozniak.com/personal/first-indie-video-game) (now available for play testing on [iOS](https://testflight.apple.com/join/2nc6yLXm) and [Android](https://play.google.com/store/apps/details?id=com.AdamWozniak.Shuffleboard))
 - A small, simple portfolio website showcasing my 43 prototypes [here](https://www.oncollisionenter.com/portfolio/)
 - And a draft of this blog post
 
