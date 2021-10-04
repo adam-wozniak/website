@@ -62,7 +62,7 @@ It has been an incredible journey. Most of the 43 prototypes I created were from
 
 But metrics are metrics. More importantly, what have I learned from this 12 month journey? And how can it be applied to learning anything else?
 
-### 1. Have a strong why
+### 1. Have a strong “why”
 This is the foundation for everything. None of the other stuff on this list matters without having a strong “why”.
 
 To be blunt, not having a strong why guarantees that we will quit. That’s normal. It’s human nature. It’s how we’re wired. Life is busy. There are an infinite number of things we could be doing with our time at any given moment. But there are only 24 hours in each day, so we’re only going to end up doing things that we deem are necessary or important enough.
@@ -106,7 +106,7 @@ Some quotes that spring to mind:
 - _Let no one be deluded that a knowledge of the path can substitute for putting one foot in front of the other._ – Mary Richards
 - _The journey of a thousand miles begins with one step._ – Lao Tzu
 
-Yes, this all sounds like the most cliched advice imaginable. It is. But it’s also true. I’ve experienced this enough times in my life already to know that the only way forward with learning something new is to work on it daily. Even if it’s just 30 mins. Or, if you’re really having a bad day, even just 15 mins. Just... do... something. Yes, even if, sometimes, you don’t feel like it. It’s only 15 minutes. Probably the time it takes to read this article.
+Yes, this all sounds like the most cliched advice imaginable. It is. But it’s also true. I’ve experienced this enough times in my life already to know that the only way forward with learning something new is to work on it daily. Even if it’s just 30 minutes. Or, if you’re really having a bad day, even just 15 minutes. Just... do... something. Yes, even if, sometimes, you don’t feel like it. It’s only 15 minutes. Probably the time it takes to read this article.
 
 But why not just skip a few days and then “make up for it” by doing 7 hours once a week on a weekend? Deep down, you and I both know that’s not going to work. We’re not going to retain anything. We’ll start bargaining with ourselves. And we’ll eventually start finding reasons not to continue with it.
 
@@ -184,7 +184,7 @@ Realize that it’s okay (and perfectly normal) to not understand something the 
 
 Even after 12 months of daily game dev, I realize I’m still very much a beginner. There’s a lot I don’t know. I know I’m coding inefficiently right now, but I’m still building things, and improvement will come if I continue to chip away at it every day. I know it will likely take years. And it will be an ongoing journey.
 
-The most important thing to remember is that it can be done. Others have done it; there is probably no reason you can’t either. It might be a different timeline than others. It will be your own timeline. But don’t let that stop you from starting.
+The most important thing to remember is that it can be done. Others have done it; there is no reason you can’t either. It might be a different timeline than others. It will be your own timeline. But don’t let that stop you from starting.
 
 ### 7. Learning how to learn
 One of the most valuable lessons this 12-month game dev journey has given me is learning how to learn.
