@@ -1,7 +1,7 @@
 ---
-title: Pangaroids
+title: Pangaroids (PC/Mac)
 date: 2022-04-01 00:00:00
-description: Pangaroids is now available on PC and Mac. Get it free...
+description: Pangaroids is now available on PC and Mac. Get it free on Steam...
 featured_image: /images/second-indie-video-game-release.png
 ---
 
