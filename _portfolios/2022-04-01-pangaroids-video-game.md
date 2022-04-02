@@ -1,7 +1,7 @@
 ---
 title: Pangaroids (PC/Mac)
 date: 2022-04-01 00:00:00
-description: Pangaroids is now available on PC and Mac. Get it free on Steam...
+description: Pangaroids is now available on PC and Mac. It’s a small game inspired by old school arcade classics. Get it FREE on Steam...
 featured_image: /images/pangaroids-video-game.png
 ---
 
