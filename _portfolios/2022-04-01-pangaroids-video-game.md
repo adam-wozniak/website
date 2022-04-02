@@ -11,7 +11,7 @@ It’s a small game inspired by old school arcade classics. Survive as long as y
 
 Pangaroids was featured as part of Steam Next Fest (Winter 2022).
 
-The game is now available on PC and Mac. [Get it free on Steam] (https://store.steampowered.com/app/1835040/Pangaroids/).
+The game is available now on PC and Mac. [Get it free on Steam](https://store.steampowered.com/app/1835040/Pangaroids/).
 
 ![](/images/pangaroids.png)
 
