@@ -1,11 +1,11 @@
 ---
 title: Modernizing operations
 date: 2023-04-02 01:00:00
-description: In 2022, upon being promoted to Senior Director, Operations of a 130 person tech consulting company, I launched into executing my vision of modernizing our operations tech stack...
+description: In 2022, upon being promoted to Senior Director, Operations of a 130+ person tech consulting company, I launched into executing my vision of modernizing our operations tech stack...
 featured_image: /images/pexels-alex-knight-2599244.jpg
 ---
 
-In 2022, upon being promoted to Senior Director, Operations of a 130 person tech consulting company, I launched into executing my vision of modernizing our operations tech stack.
+In 2022, upon being promoted to Senior Director, Operations of a 130+ person tech consulting company, I launched into executing my vision of modernizing our operations tech stack.
 
 Specifically, my goal was to replace the existing error-prone, cumbersome, and time-consuming manual processes (primarily consisting of lots of spreadsheets and disjointed systems) that linked our sales pipeline, revenue forecasts, resourcing, project/account financials, and invoicing journey. The existing jumble of spreadsheets and disjointed tools was inherited from past years, and previous operations teams and leaders had not been successful in replacing it with a solution that would be more automated, scalable, and real-time. After all, in a fast-moving organization like this one, this would be the equivalent of trying to lay tracks ahead of a moving train.
 
