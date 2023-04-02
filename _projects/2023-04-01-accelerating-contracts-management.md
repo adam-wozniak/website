@@ -5,7 +5,7 @@ description: In 2021, I was promoted from Program Director to Director, Operatio
 featured_image: /images/pexels-pixabay-261679.jpg
 ---
 
-In 2021, I was promoted from Program Director to Director, Operations at a leading tech consulting company in Toronto. As part of my wide mandate in the role, I took over the management of client contracts where I:
+In 2021, I was promoted from Program Director to Director, Operations at a leading tech consulting company in Toronto. As part of my wide mandate in the role, I took over the management of client contracts, where I:
 
 - Developed a close and collaborative working relationship with our excellent vendor (an award-winning legal firm with a speciality in technology and IP law)
 - Moved quickly to ensure we had a complete set of up-to-date contract templates for all our most common contract needs
