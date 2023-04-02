@@ -1,7 +1,7 @@
 ---
 title: Exploring new ways of measuring team health
 date: 2021-08-07 00:00:00
-description: In 2021, while working with an incredibly talented group of people at a leading digital consultancy in Toronto , I started wondering whether there was a way to measure team health in a more effective and insightful way than using eNPS...
+description: In 2021, while working with an incredibly talented group of people at a leading digital consultancy in Toronto, I started wondering whether there was a way to measure team health in a more effective and insightful way than using eNPS...
 featured_image: /images/pexels-fauxels-3184422.jpg
 ---
 
