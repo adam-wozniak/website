@@ -1,7 +1,7 @@
 ---
 title: Modernizing operations
 date: 2023-04-03 00:00:00
-description: In 2022, upon being promoted to Senior Director, Operations of a 130+ person tech consulting company, I launched into executing my vision of modernizing our operations tech stack...
+description: In 2022, upon being promoted to Senior Director, Operations of a 130 person tech consulting company, I launched into executing my vision of modernizing our operations tech stack...
 featured_image: /images/pexels-alex-knight-2599244.jpg
 ---
 
