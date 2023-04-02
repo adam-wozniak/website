@@ -54,7 +54,7 @@ Here’s what I’ve accomplished in my first 12 months of learning game develop
 - 56 GitHub repos created
 - 884 GitHub contributions
 - 43 prototypes of various game genres
-- 1 prototype of a game that will become my [first indie video game release](http://www.adamwozniak.com/personal/first-indie-video-game) (now available for play testing on [iOS](https://testflight.apple.com/join/2nc6yLXm) and [Android](https://play.google.com/store/apps/details?id=com.AdamWozniak.Shuffleboard))
+- 1 prototype of a game that will become my [first mobile game release](http://www.adamwozniak.com/personal/first-mobile-video-games) (now available on [iOS](https://apps.apple.com/ca/app/super-shuffleboard/id1585158031) and [Android](https://play.google.com/store/apps/details?id=com.AdamWozniak.Shuffleboard))
 - A small, simple portfolio website showcasing my 43 prototypes [here](https://www.oncollisionenter.com/portfolio/)
 - And a draft of this blog post
 
@@ -244,7 +244,7 @@ Forget about starting tomorrow or next week or next month. Start today. For 15 m
 
 But if we don’t start today, that year will pass anyway. And then, 12 months from now, instead of saying we have a year’s experience, we’ll still have none. And we’ll still be telling ourselves, “I’ll try this soon.” The problem is, we only have a finite number of years we can keep telling ourselves that.
 
-A year flies by. I can’t believe it’s already been 12-months of game dev. And yet here I am, genuinely surprised at how much I’ve learned during this time. (Want to try some of my prototypes? Check ‘em out [here](https://www.oncollisionenter.com/). Or you can play test my first indie game on [iOS](https://testflight.apple.com/join/2nc6yLXm) and [Android](https://play.google.com/store/apps/details?id=com.AdamWozniak.Shuffleboard).)
+A year flies by. I can’t believe it’s already been 12-months of game dev. And yet here I am, genuinely surprised at how much I’ve learned during this time. (Want to try some of my prototypes? Check ‘em out [here](https://www.oncollisionenter.com/). Or you can play my first mobile game on [iOS](https://apps.apple.com/ca/app/super-shuffleboard/id1585158031) and [Android](https://play.google.com/store/apps/details?id=com.AdamWozniak.Shuffleboard).)
 
 As an old Chinese proverb says:
 
