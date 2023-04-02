@@ -15,8 +15,6 @@ After using eNPS for a while, I found some fundamental problems with that popula
 
 The result of exploring this led to creating my own framework called [The PTAR Framework](https://rangle.io/blog/measuring-team-health-and-engagement) (Project, Team, Account, Recognition) and successfully implementing it on some of our biggest teams and accounts.
 
-To read more about this, head on over to [Rangle’s blog](https://rangle.io/blog/measuring-team-health-and-engagement).
-
 ![](/images/ptar-framework-chart-01.png)
 
 ![](/images/ptar-framework-chart-02.png)
