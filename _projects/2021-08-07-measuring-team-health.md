@@ -5,7 +5,7 @@ description: In 2021, while working with an incredibly talented group of people 
 featured_image: /images/pexels-fauxels-3184422.jpg
 ---
 
-In 2021, while working with an incredibly talented group of people at a leading digital consultancy in Toronto , I started wondering whether there was a way to measure team health in a more effective and insightful way than using eNPS.
+In 2021, while working with an incredibly talented group of people at a leading digital consultancy in Toronto, I started wondering whether there was a way to measure team health in a more effective and insightful way than using eNPS (which is what we had inherited from previous teams).
 
 After all, happy team members likely means higher performing teams, and higher performing teams are likely to result in better retention of individuals, teams, and even clients.
 
