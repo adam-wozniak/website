@@ -54,7 +54,7 @@ Here’s what I’ve accomplished in my first 12 months of learning game develop
 - 56 GitHub repos created
 - 884 GitHub contributions
 - 43 prototypes of various game genres
-- 1 prototype of a game that will become my [first mobile game release](http://www.adamwozniak.com/personal/first-mobile-video-games) (now available on [iOS](https://apps.apple.com/ca/app/super-shuffleboard/id1585158031) and [Android](https://play.google.com/store/apps/details?id=com.AdamWozniak.Shuffleboard))
+- 1 prototype of a game that will become my [first mobile game release](http://www.adamwozniak.com/personal/first-mobile-video-game) (now available on [iOS](https://apps.apple.com/ca/app/super-shuffleboard/id1585158031) and [Android](https://play.google.com/store/apps/details?id=com.AdamWozniak.Shuffleboard))
 - A small, simple portfolio website showcasing my 43 prototypes [here](https://www.oncollisionenter.com/portfolio/)
 - And a draft of this blog post
 
