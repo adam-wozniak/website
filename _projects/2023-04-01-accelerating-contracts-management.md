@@ -14,4 +14,4 @@ In 2021, I was promoted from Program Director to Director, Operations at a leadi
 
 During my time in this role from 2021-2023, I reviewed and arranged for execution of approximately 300 contracts, spanning Non-Disclosure Agreements (NDAs), Statements of Work (SOWs), Master Services Agreements (MSAs), and other miscellaneous legal agreements.
 
-This experience became an unexpected way for me to leverage my past experience from a law degree and bring that into my interactions between the business and our legal firm vendor.
+One of the unexpected bonuses of this experience was that it became a way for me to leverage my past knowledge gained from a law degree and apply it in a very practical manner to the day-to-day operations of a company.
