@@ -1,7 +1,7 @@
 ---
 title: Accelerating contracts management
 date: 2023-04-01 00:00:00
-description: In 2021, I was promoted from Program Director to Director, Operations at a leading tech consulting company in Toronto. As part of my wide mandate in the role, I took over the management of client contracts where I...
+description: In 2021, I was promoted from Program Director to Director, Operations at a leading tech consulting company in Toronto. As part of my wide mandate in the role, I took over the management of client contracts, where I...
 featured_image: /images/pexels-pixabay-261679.jpg
 ---
 
