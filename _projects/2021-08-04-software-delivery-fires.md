@@ -9,6 +9,6 @@ From 2013-15, I worked for a digital agency in Toronto that specialized in creat
 
 During my time there, I was parachuted into a multi-million dollar account that was on fire and on the verge of being cancelled. All parties were unhappy with how the project was going. I met with all stakeholders separately to diagnose the issues, then one-by-one went about implementing changes to fix the problems, implementing new delivery processes and communication strategies, strengthening the team, and ultimately rebuilding trust. The project and client relationship eventually became one of the best performing ones in our company.
 
-Testing code embedding from github:
-
+Testing more code embedding from github:
+<br>
 <script src="https://gist.github.com/adam-wozniak/d596cfe43bd3d1e9474160c419ff03e0.js"></script>
