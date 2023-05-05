@@ -10,6 +10,12 @@ From 2013-15, I worked for a digital agency in Toronto that specialized in creat
 During my time there, I was parachuted into a multi-million dollar account that was on fire and on the verge of being cancelled. All parties were unhappy with how the project was going. I met with all stakeholders separately to diagnose the issues, then one-by-one went about implementing changes to fix the problems, implementing new delivery processes and communication strategies, strengthening the team, and ultimately rebuilding trust. The project and client relationship eventually became one of the best performing ones in our company.
 
 ```
+/*
+This Common Table Expression (CTE) excludes all games published by AAA publishers that I have defined in a separate table (excluded_publishers). Adding this to the top of any other query allowed me to ensure my analysis was only being done on games that were not published by AAA publishers.
+
+The publishers field sometimes contains more than one value, hence my approach below.
+*/
+
 WITH filtered_games AS (
   SELECT *
   FROM games
