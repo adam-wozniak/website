@@ -26,3 +26,8 @@ WITH filtered_games AS (
   )
 )
 ```
+
+Testing code embedding from github:
+
+<iframe src="[https://gist.github.com/USERNAME/GIST_ID.js](https://gist.githubusercontent.com/adam-wozniak/6e7719615d0012443a8b1b347f9e93fb/raw/da7ceda746aee6971bdf76d80c7ec024026cf005/gistfile1.txt)"></iframe>
+
