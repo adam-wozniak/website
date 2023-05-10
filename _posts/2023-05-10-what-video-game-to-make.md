@@ -229,6 +229,16 @@ Who knows – maybe one day many of us will be playing your next game!
 
 ## Appendix
 
+### Useful resources
+
+There are some great resources that dive further into Steam-related data:
+
+[Chris Zukowski](https://howtomarketagame.com/) - leverages insights from his own, in-depth game consulting experience. Chris writes extensively about how to market indie games on Steam. He also offers some excellent paid courses I highly recommend.
+
+[SteamDB](https://steamdb.info/) - a website that continuously tracks all sorts of data points from Steam, including price history, estimates of lifetime player count and concurrent users, as well as interesting metadata on each game in the Steam database.
+
+[VG Insights](https://vginsights.com/) - a video game market research platform that provides indie developers and publishers with market data. VG Insights uses the Steam API, along with other 3rd party data sources (such as the The Internet Game Database [IGDB](https://www.igdb.com/) and others) to provide estimates on things like sales revenue, number of sales, etc. While some of the info is free, the more in-depth stuff requires a paid subscription.
+
 ### AAA publishers exclusion list
 Here are the publishers I excluded from my data analysis:
 
@@ -267,7 +277,7 @@ Here are the publishers I excluded from my data analysis:
 - Xbox
 
 ### SQL examples
-In total, I wrote over 60 SQL queries during my analysis of the Steam data set. Here are six of my favourite SQL queries:
+In total, I wrote over sixty SQL queries during my analysis of the Steam data set. Here are six of my favourite SQL queries:
 
 <p>
 <script src="https://gist.github.com/adam-wozniak/d596cfe43bd3d1e9474160c419ff03e0.js"></script>
@@ -281,13 +291,3 @@ In total, I wrote over 60 SQL queries during my analysis of the Steam data set. 
 <script src="https://gist.github.com/adam-wozniak/42d47f5de61a77091738c7e34ab41227.js"></script>
 <p>
 <script src="https://gist.github.com/adam-wozniak/8f63ef490b270f6e0f5e85d6ce018f1a.js"></script>
-<p>
-
-### Other useful resources
-There are some great resources that dive further into Steam-related data:
-
-[Chris Zukowski](https://howtomarketagame.com/) - leverages insights from his own, in-depth game consulting experience. Chris writes extensively about how to market indie games on Steam. He also offers some excellent paid courses I highly recommend.
-
-[SteamDB](https://steamdb.info/) - a website that continuously tracks all sorts of data points from Steam, including price history, estimates of lifetime player count and concurrent users, as well as interesting metadata on each game in the Steam database.
-
-[VG Insights](https://vginsights.com/) - a video game market research platform that provides indie developers and publishers with market data. VG Insights uses the Steam API, along with other 3rd party data sources (such as the The Internet Game Database [IGDB](https://www.igdb.com/) and others) to provide estimates on things like sales revenue, number of sales, etc. While some of the info is free, the more in-depth stuff requires a paid subscription.
