@@ -102,8 +102,7 @@ But enough talk. Let’s get to the fun stuff – the visualizations and what t
 ### The big picture
 With the previously mentioned exclusions in mind, just how many games are in the Steam library?
 
-![](/images/02-games-released.gif)
-https://public.tableau.com/views/Steamgames_16835038314870/GamesReleasedPerYear?:language=en-US&:display_count=n&:origin=viz_share_link
+[![](/images/02-games-released.gif)](https://public.tableau.com/views/Steamgames_16835038314870/GamesReleasedPerYear?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Like Keanu Reeves, you’re probably thinking... woah. And you’d be right. At the moment, there are approximately 1000 new games released on Steam **every month**. That’s more than 1 game released every hour.
 
@@ -118,13 +117,11 @@ Most of us are probably aware that the mobile game market is dominated by the fr
 
 But you’ll be relieved to know that the opposite is true on Steam. The vast majority of games on Steam are paid.
 
-![](/images/03-paid-vs-free.png)
-https://public.tableau.com/views/Steamgames_16835038314870/PaidvsFree?:language=en-US&:display_count=n&:origin=viz_share_link
+[![](/images/03-paid-vs-free.png)](https://public.tableau.com/views/Steamgames_16835038314870/PaidvsFree?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 What are the most common price points?
 
-![](/images/04-price-ranges.png)
-https://public.tableau.com/views/Steamgames_16835038314870/PriceRanges?:language=en-US&:display_count=n&:origin=viz_share_link
+[![](/images/04-price-ranges.png)](https://public.tableau.com/views/Steamgames_16835038314870/PriceRanges?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 So if you make the type of game Steam users prefer playing, at a price point that Steam users are used to, there are opportunities here for financial success.
 
@@ -135,7 +132,7 @@ It doesn’t take a rocket scientist (why does it always have to be a rocket sci
 
 So what kind of variance do we see with the number of reviews games get?
 
-
+![](/images/05-total-reviews-all-and-non-complex.png)
 
 For all games:
 
@@ -155,8 +152,7 @@ They also show us that Steam users generally prefer playing complex games.
 
 While all the above figures are interesting, what if we group them into buckets of review numbers? If we do that, we see that the vast majority of games have less than 50 reviews.
 
-![](/images/06-total-reviews.gif)
-https://public.tableau.com/views/Steamgames_16835038314870/ReviewRanges?:language=en-US&:display_count=n&:origin=viz_share_link
+[![](/images/06-total-reviews.gif)](https://public.tableau.com/views/Steamgames_16835038314870/ReviewRanges?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Note with the above animation that if we only look at games that are non-complex, that bucket of < 50 reviews is even bigger. At this point, it almost looks like a dumpster…
 
@@ -181,15 +177,13 @@ There are a dozen or so genres in the Steam data set. In general, genres are a p
 
 But with that said, let’s take a look at the data. The visualization below shows all the genres and the median number of reviews for games in that genre, while the colour of the bar represents the average complexity of games in that genre. The less complex games are, the more green that bar will be.
 
-![](/images/08-genres.png)
-https://public.tableau.com/views/Steamgames_16835038314870/ViableGenres?:language=en-US&:display_count=n&:origin=viz_share_link
+[![](/images/08-genres.png)](https://public.tableau.com/views/Steamgames_16835038314870/ViableGenres?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Perhaps surprisingly, adult content plugs two of the top three spots. But not surprisingly, the most popular genre is Massively Multiplayer (MMO). Also not surprisingly, MMO games are some of the most technically complex games on the market.
 
 But the above shows data for all the years in the Steam data set. Let’s zero in on the two most recent complete years: 2021 and 2022. For games released during these two years, here are the most popular genres:
 
-![](/images/09-genres-2021-2022.png)
-https://public.tableau.com/views/Steamgames_16835038314870/ViableGenres2021-2022?:language=en-US&:display_count=n&:origin=viz_share_link
+[![](/images/09-genres-2021-2022.png)](https://public.tableau.com/views/Steamgames_16835038314870/ViableGenres2021-2022?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Here we see another reason genres aren’t a useful way to decide what game to make. Almost all the genres in 2021-22 have  similar median review numbers – and they’re all very low and show little variance.
 
@@ -202,8 +196,7 @@ Just like genres, a game can be labelled with zero or more tags. Even at face va
 
 So, just like with the analysis of genres, let’s immediately zero in on an analysis of tags for games released in 2021 and 2022:
 
-![](/images/10-tags-2021-2022.png)
-https://public.tableau.com/views/Steamgames_16835038314870/ViableTags2021-2022?:language=en-US&:display_count=n&:origin=viz_share_link
+[![](/images/10-tags-2021-2022.png)](https://public.tableau.com/views/Steamgames_16835038314870/ViableTags2021-2022?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 This is more insightful already.
 
@@ -216,6 +209,7 @@ But ignoring cricket, looking at tags that are some version of green (and theref
 (If you’d like to explore all 400+ tags, just click on the image below to interact with the visualization on Tableau Public)
 
 ## Right, so what game should I make?
+
 Obviously, a well-written, wholesome, narrative game where the hero is a nude train-driving villain who likes fishing.
 
 Oh, and it has to have a great soundtrack.
