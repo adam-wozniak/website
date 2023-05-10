@@ -234,39 +234,39 @@ There are some great resources that dive further into Steam-related data:
 ### AAA publishers exclusion list
 Here are the publishers I excluded from my data analysis:
 
-- 2K
-- Activision
-- Amazon
-- Bandai Namco
-- Bethesda
-- Bungie
-- Capcom
-- CD Projekt Red
-- Codemasters
-- Electronic Arts
-- Epic Games
-- FromSoftware
-- Koei Tecmo
-- Konami
-- Krafton
-- Microsoft
-- NCSoft
-- NetEase
-- Netmarble
-- Nexon
-- Paradox Interactive
-- PlayStation
-- Rockstar
-- Sega
-- Sony
-- Square Enix
-- Tencent
-- THQ
-- Ubisoft
-- Valve
-- Wargaming
-- Warner Bros
-- Xbox
+- [2K](https://en.wikipedia.org/wiki/2K_(company)
+- [Activision](https://en.wikipedia.org/wiki/Activision)
+- [Amazon](https://en.wikipedia.org/wiki/Amazon_Games)
+- [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Holdings)
+- [Bethesda](https://en.wikipedia.org/wiki/Bethesda_Softworks)
+- [Bungie](https://en.wikipedia.org/wiki/Bungie)
+- [Capcom](https://en.wikipedia.org/wiki/Capcom)
+- [CD Projekt Red](https://en.wikipedia.org/wiki/CD_Projekt)
+- [Codemasters](https://en.wikipedia.org/wiki/Codemasters)
+- [Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts)
+- [Epic Games](https://en.wikipedia.org/wiki/Epic_Games)
+- [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware)
+- [Koei Tecmo](https://en.wikipedia.org/wiki/Koei_Tecmo)
+- [Konami](https://en.wikipedia.org/wiki/Konami)
+- [Krafton](https://en.wikipedia.org/wiki/Krafton)
+- [Microsoft](https://en.wikipedia.org/wiki/Xbox_Game_Studios)
+- [NCSoft](https://en.wikipedia.org/wiki/NCSoft)
+- [NetEase](https://en.wikipedia.org/wiki/NetEase)
+- [Netmarble](https://en.wikipedia.org/wiki/Netmarble)
+- [Nexon](https://en.wikipedia.org/wiki/Nexon)
+- [Paradox Interactive](https://en.wikipedia.org/wiki/Paradox_Interactive)
+- [PlayStation](https://en.wikipedia.org/wiki/PlayStation_Studios)
+- [Rockstar](https://en.wikipedia.org/wiki/Rockstar_Games)
+- [Sega](https://en.wikipedia.org/wiki/Sega)
+- [Sony](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment)
+- [Square Enix](https://en.wikipedia.org/wiki/Square_Enix)
+- [Tencent](https://en.wikipedia.org/wiki/Tencent_Games)
+- [THQ](https://en.wikipedia.org/wiki/THQ)
+- [Ubisoft](https://en.wikipedia.org/wiki/Ubisoft)
+- [Valve](https://en.wikipedia.org/wiki/Valve_Corporation)
+- [Wargaming](https://en.wikipedia.org/wiki/Wargaming_(company)
+- [Warner Bros](https://en.wikipedia.org/wiki/Warner_Bros._Games)
+- [Xbox](https://en.wikipedia.org/wiki/Xbox_Game_Studios)
 
 ### SQL examples
 In total, I wrote over sixty SQL queries during my analysis of the Steam data set. Here are six of my favourite SQL queries:
