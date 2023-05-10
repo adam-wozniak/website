@@ -1,7 +1,7 @@
 ---
 title: What video game should you make? (Data analysis of Steam)
 date: 2023-05-10 00:00:00
-description: What if I told you that, based on the data, the video game you should make should be: a well-written, ________, ________ game where the hero is a ________ ________ villain who likes ________? Curious to read more? Well, you should be. Your first hit indie game might be inspired by what you read here today…
+description: What if I told you that, based on the data, the video game you should make should be: a well-written, blank, blank game where the hero is a blank blank villain who likes blank? Curious to read more? Well, you should be. Your first hit indie game might be inspired by what you read here today…
 featured_image: '/images/indie-game-collage.png’
 ---
 
@@ -269,6 +269,7 @@ Here are the publishers I excluded from my data analysis:
 ### SQL examples
 In total, I wrote over 60 SQL queries during my analysis of the Steam data set. Here are six of my favourite SQL queries:
 
+```
 <p>
 <script src=“https://gist.github.com/adam-wozniak/d596cfe43bd3d1e9474160c419ff03e0.js”></script>
 <p>
@@ -281,6 +282,7 @@ In total, I wrote over 60 SQL queries during my analysis of the Steam data set. 
 <script src=“https://gist.github.com/adam-wozniak/42d47f5de61a77091738c7e34ab41227.js”></script>
 <p>
 <script src=“https://gist.github.com/adam-wozniak/8f63ef490b270f6e0f5e85d6ce018f1a.js”></script>
+```
 
 ### Other useful resources
 There are some great resources that dive further into Steam-related data:
