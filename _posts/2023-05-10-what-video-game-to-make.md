@@ -271,9 +271,9 @@ Here are the publishers I excluded from my data analysis:
 - Xbox
 
 ### SQL examples
-In total, I wrote over sixty SQL queries during my analysis of the Steam data set. Here are 6 of my favourite SQL queries:
+In total, I wrote over sixty SQL queries during my analysis of the Steam data set. Here are six of my favourite SQL queries:
 
-'''
+```
 /*
 This query identifies each game as either complex to make, or non-complex, based on my own knowledge of game dev and the complexity of developing the features listed in the categories column. The categories column contains a comma-separated list of values. The query below writes values of ‘Y’ or ’N’ to a new column I created in the database.
 */
@@ -315,4 +315,4 @@ SET is_complex = CASE
     THEN ‘Y’
     ELSE ’N’
 END;
-'''
+```
