@@ -272,3 +272,5 @@ Here are the publishers I excluded from my data analysis:
 
 ### SQL examples
 In total, I wrote over sixty SQL queries during my analysis of the Steam data set. Here are 6 of my favourite SQL queries
+
+<script src="https://gist.github.com/adam-wozniak/d596cfe43bd3d1e9474160c419ff03e0.js"></script>
