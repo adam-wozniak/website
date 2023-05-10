@@ -1,11 +1,10 @@
 ---
 title: What Video Game Should You Make? (Data analysis of Steam)
 date: 2023-05-10 00:00:00
-description: Your first hit indie game might be inspired by what you read here today...
+description: Ever wondered what Keanu Reeves, Batman, cricket, trombones, and a game that costs USD$999 have to do with creating a hit indie video game on #Steam? Read this article to find out...
 featured_image: '/images/indie-game-collage.jpg'
 ---
 
-# What video game should you make? (Data analysis of Steam)
 What if I told you that, based on the data, the video game you should make should be: a well-written, BLANK, BLANK game where the hero is a BLANK BLANK villain who likes BLANK?
 
 Curious to read more? Well, you should be. Your first hit indie game might be inspired by what you read here today...
@@ -197,6 +196,8 @@ Just like genres, a game can be labelled with zero or more tags. Even at face va
 So, just like with the analysis of genres, let’s immediately zero in on an analysis of tags for games released in 2021 and 2022:
 
 [![](/images/10-tags-2021-2022.png)](https://public.tableau.com/views/Steamgames_16835038314870/ViableTags2021-2022?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+*(If you'd like to explore all 400+ tags, just click on the above image to interact with the visualization on Tableau Public.)*
 
 This is more insightful already.
 
