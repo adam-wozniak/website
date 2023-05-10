@@ -285,3 +285,4 @@ In total, I wrote over sixty SQL queries during my analysis of the Steam data se
 <script src="https://gist.github.com/adam-wozniak/42d47f5de61a77091738c7e34ab41227.js"></script>
 <p>
 <script src="https://gist.github.com/adam-wozniak/8f63ef490b270f6e0f5e85d6ce018f1a.js"></script>
+</p>
