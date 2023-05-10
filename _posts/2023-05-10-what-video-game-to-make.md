@@ -275,7 +275,11 @@ In total, I wrote over sixty SQL queries during my analysis of the Steam data se
 
 ```
 /*
-This query identifies each game as either complex to make, or non-complex, based on my own knowledge of game dev and the complexity of developing the features listed in the categories column. The categories column contains a comma-separated list of values. The query below writes values of ‘Y’ or ’N’ to a new column I created in the database.
+This query identifies each game as either complex to make, or non-complex,
+based on my own knowledge of game dev and the complexity of developing the
+features listed in the categories column. The categories column contains a
+comma-separated list of values. The query below writes values of ‘Y’ or ’N’
+to a new column I created in the database.
 */
 
 UPDATE games
@@ -319,7 +323,10 @@ END;
 
 ```
 /*
-This Common Table Expression (CTE) excludes all games published by AAA publishers that I have defined in a separate table (excluded_publishers). Adding this to the top of any other query allowed me to ensure my analysis was only being done on games that were not published by AAA publishers.
+This Common Table Expression (CTE) excludes all games published by AAA publishers
+that I have defined in a separate table (excluded_publishers). Adding this to the
+top of any other query allowed me to ensure my analysis was only being done on
+games that were not published by AAA publishers.
 
 The publishers field sometimes contains more than one value, hence my approach below.
 */
@@ -337,7 +344,9 @@ WITH filtered_games AS (
 
 ```
 /*
-This query counts the number of games released by each developer, then ranks them into a top 10. I used RANK (instead of solely relying on LIMIT) in case there were multiple developers with the same number of releases.
+This query counts the number of games released by each developer, then ranks
+them into a top 10. I used RANK (instead of solely relying on LIMIT) in case
+there were multiple developers with the same number of releases.
 
 The query also includes the average and median number of reviews per developer.
 */
@@ -355,9 +364,11 @@ LIMIT 10;
 
 ```
 /*
-Using additional Common Table Expressions (CTEs), this query calculates the percentage of developers that have released 1 game, 2 games, or 3+ games.
+Using additional Common Table Expressions (CTEs), this query calculates the
+percentage of developers that have released 1 game, 2 games, or 3+ games.
 
-The query also shows the average and median number of reviews per number of games released.
+The query also shows the average and median number of reviews per number of
+games released.
 */
 
 WITH game_counts AS (
@@ -391,7 +402,8 @@ ORDER BY percent_of_developers DESC;
 
 ```
 /*
-This query categorizes the number of games sold at various price point ranges and then converts that to percentages of all games.
+This query categorizes the number of games sold at various price point ranges
+and then converts that to percentages of all games.
 
 The query also shows the average and median number of reviews for each price point.
 */
@@ -417,9 +429,12 @@ ORDER BY 2 DESC;
 
 ```
 /*
-This query splits the comma-separated tags field into a new column and calculates the average and median number of reviews per tag.
+This query splits the comma-separated tags field into a new column and calculates
+the average and median number of reviews per tag.
 
-The query also averages the level of complexity of all games in each tag, and the HAVING clause then filters the results to only show games with median reviews >= 50 and complexity score <= 50
+The query also averages the level of complexity of all games in each tag, and the
+HAVING clause then filters the results to only show games with
+median reviews >= 50 and complexity score <= 50
 */
 
 SELECT
