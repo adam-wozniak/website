@@ -2,7 +2,7 @@
 title: What video game should you make? (Data analysis of Steam)
 date: 2023-05-10 00:00:00
 description: Your first hit indie game might be inspired by what you read here today...
-featured_image: ‘/images/pexels-ben-mack-5326900.jpg’
+featured_image: '/images/pexels-ben-mack-5326900.jpg'
 ---
 
 # What video game should you make? (Data analysis of Steam)
@@ -267,20 +267,20 @@ Here are the publishers I excluded from my data analysis:
 - Xbox
 
 ### SQL examples
-In total, I wrote over 60 SQL queries during my analysis of the Steam data set. Here are 6 of my favourite SQL queries:
+In total, I wrote over 60 SQL queries during my analysis of the Steam data set. Here are six of my favourite SQL queries:
 
 <p>
-<script src=“https://gist.github.com/adam-wozniak/d596cfe43bd3d1e9474160c419ff03e0.js”></script>
+<script src="https://gist.github.com/adam-wozniak/d596cfe43bd3d1e9474160c419ff03e0.js"></script>
 <p>
-<script src=”https://gist.github.com/adam-wozniak/588bc6163f1fb98a46a669688d270e40.js”></script>
+<script src="https://gist.github.com/adam-wozniak/588bc6163f1fb98a46a669688d270e40.js"></script>
 <p>
-<script src=“https://gist.github.com/adam-wozniak/31e908abaa4e657edcc54026ab5e69b5.js”></script>
+<script src="https://gist.github.com/adam-wozniak/31e908abaa4e657edcc54026ab5e69b5.js"></script>
 <p>
-<script src=“https://gist.github.com/adam-wozniak/a971e1fb67e2f60b2f83485affa268d1.js”></script>
+<script src="https://gist.github.com/adam-wozniak/a971e1fb67e2f60b2f83485affa268d1.js"></script>
 <p>
-<script src=“https://gist.github.com/adam-wozniak/42d47f5de61a77091738c7e34ab41227.js”></script>
+<script src="https://gist.github.com/adam-wozniak/42d47f5de61a77091738c7e34ab41227.js"></script>
 <p>
-<script src=“https://gist.github.com/adam-wozniak/8f63ef490b270f6e0f5e85d6ce018f1a.js”></script>
+<script src="https://gist.github.com/adam-wozniak/8f63ef490b270f6e0f5e85d6ce018f1a.js"></script>
 
 ### Other useful resources
 There are some great resources that dive further into Steam-related data:
