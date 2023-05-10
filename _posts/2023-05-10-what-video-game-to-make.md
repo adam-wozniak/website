@@ -316,3 +316,120 @@ SET is_complex = CASE
     ELSE ’N’
 END;
 ```
+
+```
+/*
+This Common Table Expression (CTE) excludes all games published by AAA publishers that I have defined in a separate table (excluded_publishers). Adding this to the top of any other query allowed me to ensure my analysis was only being done on games that were not published by AAA publishers.
+
+The publishers field sometimes contains more than one value, hence my approach below.
+*/
+
+WITH filtered_games AS (
+  SELECT *
+  FROM games
+  WHERE NOT EXISTS (
+    SELECT *
+    FROM excluded_publishers
+    WHERE games.publishers ILIKE ‘%’ || excluded_publishers.aaa_publisher || ‘%’
+  )
+)
+```
+
+```
+/*
+This query counts the number of games released by each developer, then ranks them into a top 10. I used RANK (instead of solely relying on LIMIT) in case there were multiple developers with the same number of releases.
+
+The query also includes the average and median number of reviews per developer.
+*/
+
+SELECT developers,
+  COUNT(*) AS count_games,
+  RANK() OVER (ORDER BY COUNT(*) DESC) AS rank,
+  ROUND(AVG(positive + negative)::numeric, 0) AS avg_number_of_reviews,
+  PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY positive + negative) AS median_number_of_reviews
+FROM filtered_games
+GROUP BY developers
+ORDER BY count_games DESC
+LIMIT 10;
+```
+
+```
+/*
+Using additional Common Table Expressions (CTEs), this query calculates the percentage of developers that have released 1 game, 2 games, or 3+ games.
+
+The query also shows the average and median number of reviews per number of games released.
+*/
+
+WITH game_counts AS (
+  SELECT developers, COUNT(*) AS count_games
+  FROM filtered_games
+  GROUP BY developers
+), 
+total_counts AS (
+  SELECT COUNT(DISTINCT developers) AS total_counts FROM games
+), 
+review_counts AS (
+  SELECT developers, SUM(positive + negative) AS total_reviews
+  FROM filtered_games
+  GROUP BY developers
+)
+
+SELECT 
+  CASE 
+    WHEN count_games = 1 THEN ‘1’
+    WHEN count_games = 2 THEN ‘2’
+    ELSE ‘3 or more games released’
+  END AS count_games_released,
+  COUNT(*) * 100 / total_counts.total_counts AS percent_of_developers,
+  ROUND(AVG(total_reviews)::numeric, 0) AS avg_total_reviews, PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY total_reviews) AS median_total_reviews
+FROM game_counts
+JOIN total_counts ON 1=1
+JOIN review_counts USING(developers)
+GROUP BY count_games_released, total_counts.total_counts
+ORDER BY percent_of_developers DESC;
+```
+
+```
+/*
+This query categorizes the number of games sold at various price point ranges and then converts that to percentages of all games.
+
+The query also shows the average and median number of reviews for each price point.
+*/
+
+SELECT 
+  CASE
+    WHEN price = 0 THEN ‘Free’
+    WHEN price <= 5 THEN ‘$0 - $5’
+    WHEN price <= 10 THEN ‘$6 - $10’
+    WHEN price <= 20 THEN ‘$11 - $20’
+    WHEN price <=50 THEN ‘$21 - $50’
+    WHEN price <=75 THEN ‘$51 - $75’
+    WHEN price <=100 THEN ‘$76 - $100’
+    ELSE ‘More than $100’
+  END AS price_category,
+  ROUND(COUNT(*)::numeric / (SELECT COUNT(*) FROM games) * 100, 2) as percent,
+  ROUND(AVG(positive + negative)::numeric, 0) AS avg_number_of_reviews,
+  PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY positive + negative) AS median_number_of_reviews
+FROM filtered_games
+GROUP BY price_category
+ORDER BY 2 DESC;
+```
+
+```
+/*
+This query splits the comma-separated tags field into a new column and calculates the average and median number of reviews per tag.
+
+The query also averages the level of complexity of all games in each tag, and the HAVING clause then filters the results to only show games with median reviews >= 50 and complexity score <= 50
+*/
+
+SELECT
+  tag,
+  ROUND(COUNT(*)::numeric / (SELECT COUNT(*) FROM games) * 100, 2) AS percent,
+  ROUND(AVG(positive + negative)::numeric, 0) AS avg_number_of_reviews,
+  PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY positive + negative) AS median_number_of_reviews,
+  ROUND((SELECT AVG(CASE WHEN is_complex = ‘Y’ THEN 1 ELSE 0 END) FROM games WHERE tag = ANY(string_to_array(tags, ‘,’))) * 100, 2) AS avg_complexity_score
+FROM filtered_games, UNNEST(string_to_array(tags, ‘,’)) tag
+GROUP BY tag
+HAVING PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY positive + negative) >= 50 AND ROUND((SELECT AVG(CASE WHEN is_complex = ‘Y’ THEN 1 ELSE 0 END) FROM games WHERE tag = ANY(string_to_array(tags, ‘,’))) * 100, 2) <= 50
+ORDER BY avg_complexity_score DESC;
+```
