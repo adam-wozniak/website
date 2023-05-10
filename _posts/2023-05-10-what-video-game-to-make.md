@@ -234,7 +234,7 @@ There are some great resources that dive further into Steam-related data:
 ### AAA publishers exclusion list
 Here are the publishers I excluded from my data analysis:
 
-- [2K](https://en.wikipedia.org/wiki/2K_(company)
+- [2K](https://en.wikipedia.org/wiki/2K_(company))
 - [Activision](https://en.wikipedia.org/wiki/Activision)
 - [Amazon](https://en.wikipedia.org/wiki/Amazon_Games)
 - [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Holdings)
