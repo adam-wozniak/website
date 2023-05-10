@@ -1,14 +1,14 @@
 ---
-title: What video game should you make? (Data analysis of Steam)
+title: What Video Game Should You Make? (Data analysis of Steam)
 date: 2023-05-10 00:00:00
 description: Your first hit indie game might be inspired by what you read here today...
-featured_image: '/images/pexels-ben-mack-5326900.jpg'
+featured_image: '/images/indie-game-collage.jpg'
 ---
 
 # What video game should you make? (Data analysis of Steam)
 What if I told you that, based on the data, the video game you should make should be: a well-written BLANK BLANK BLANK, BLANK game where the hero is a BLANK BLANK villain who likes BLANK?
 
-Curious to read more? Well, you should be. Your first hit indie game might be inspired by what you read here today…
+Curious to read more? Well, you should be. Your first hit indie game might be inspired by what you read here today...
 
 ## What is Steam?
 Launched in 2003 by [Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) (makers of *Half-Life*, *Counter-Strike*, *Portal*, *Dota*), [Steam](https://store.steampowered.com/) is the leading PC gaming distribution platform in the world. In 2021, Steam generated over $10 billion in revenue and hit [132 million Monthly Active Users](https://www.statista.com/statistics/733277/number-stream-dau-mau/) (MAU). According to [Variety](https://variety.com/2019/gaming/news/steam-one-billion-accounts-1203201159/), Valve reportedly has over 1 billion registered user accounts.
@@ -281,6 +281,7 @@ In total, I wrote over 60 SQL queries during my analysis of the Steam data set. 
 <script src="https://gist.github.com/adam-wozniak/42d47f5de61a77091738c7e34ab41227.js"></script>
 <p>
 <script src="https://gist.github.com/adam-wozniak/8f63ef490b270f6e0f5e85d6ce018f1a.js"></script>
+<p>
 
 ### Other useful resources
 There are some great resources that dive further into Steam-related data:
