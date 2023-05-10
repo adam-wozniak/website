@@ -1,7 +1,7 @@
 ---
 title: What Video Game Should You Make? (Data analysis of Steam)
 date: 2023-05-10 00:00:00
-description: Ever wondered what Keanu Reeves, Batman, cricket, trombones, and a game that costs USD999 have to do with creating a hit indie video game on Steam? Read this article to find out...
+description: Ever wondered what Keanu Reeves, Batman, cricket, trombones, and a game that costs USD$999 have to do with creating a hit indie video game on Steam? Read this article to find out...
 featured_image: '/images/indie-game-collage.jpg'
 ---
 
@@ -323,12 +323,13 @@ END;
 
 ```
 /*
-This Common Table Expression (CTE) excludes all games published by AAA publishers
-that I have defined in a separate table (excluded_publishers). Adding this to the
-top of any other query allowed me to ensure my analysis was only being done on
-games that were not published by AAA publishers.
+This Common Table Expression (CTE) excludes all games published by AAA
+publishers that I have defined in a separate table (excluded_publishers).
+Adding this to the top of any other query allowed me to ensure my analysis
+was only being done on games that were not published by AAA publishers.
 
-The publishers field sometimes contains more than one value, hence my approach below.
+The publishers field sometimes contains more than one value, hence my
+approach below.
 */
 
 WITH filtered_games AS (
@@ -405,7 +406,8 @@ ORDER BY percent_of_developers DESC;
 This query categorizes the number of games sold at various price point ranges
 and then converts that to percentages of all games.
 
-The query also shows the average and median number of reviews for each price point.
+The query also shows the average and median number of reviews for
+each price point.
 */
 
 SELECT 
@@ -429,11 +431,11 @@ ORDER BY 2 DESC;
 
 ```
 /*
-This query splits the comma-separated tags field into a new column and calculates
-the average and median number of reviews per tag.
+This query splits the comma-separated tags field into a new column and
+calculates the average and median number of reviews per tag.
 
-The query also averages the level of complexity of all games in each tag, and the
-HAVING clause then filters the results to only show games with
+The query also averages the level of complexity of all games in each tag,
+and the HAVING clause then filters the results to only show games with
 median reviews >= 50 and complexity score <= 50
 */
 
