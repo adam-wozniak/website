@@ -1,12 +1,12 @@
 ---
 title: What video game should you make? (Data analysis of Steam)
 date: 2023-05-10 00:00:00
-description: Your first hit indie game might be inspired by what you read here today…
+description: Your first hit indie game might be inspired by what you read here today...
 featured_image: ‘/images/pexels-ben-mack-5326900.jpg’
 ---
 
 # What video game should you make? (Data analysis of Steam)
-What if I told you that, based on the data, the video game you should make should be: a well-written, ________, ________ game where the hero is a ________ ________ villain who likes ________?
+What if I told you that, based on the data, the video game you should make should be: a well-written BLANK BLANK BLANK, BLANK game where the hero is a BLANK BLANK villain who likes BLANK?
 
 Curious to read more? Well, you should be. Your first hit indie game might be inspired by what you read here today…
 
@@ -71,7 +71,8 @@ Steam’s data set includes a field called “Categories”. It’s perhaps not 
 
 Using my own knowledge and experience of game development, I decided to label each of these categories as either complex to make, or not complex. Here’s what I came up with:
 
-[![](/images/01-categories-logarithmic.png)](https://public.tableau.com/app/profile/a.w6155/viz/Steamgames_16835038314870/Categories)
+![](/images/01-categories-logarithmic.png)
+https://public.tableau.com/app/profile/a.w6155/viz/Steamgames_16835038314870/Categories
 
 *(Note the above is on a logarithmic scale)*
 
