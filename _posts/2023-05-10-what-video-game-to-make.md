@@ -264,7 +264,7 @@ Here are the publishers I excluded from my data analysis:
 - [THQ](https://en.wikipedia.org/wiki/THQ)
 - [Ubisoft](https://en.wikipedia.org/wiki/Ubisoft)
 - [Valve](https://en.wikipedia.org/wiki/Valve_Corporation)
-- [Wargaming](https://en.wikipedia.org/wiki/Wargaming_(company)
+- [Wargaming](https://en.wikipedia.org/wiki/Wargaming_(company))
 - [Warner Bros](https://en.wikipedia.org/wiki/Warner_Bros._Games)
 - [Xbox](https://en.wikipedia.org/wiki/Xbox_Game_Studios)
 
