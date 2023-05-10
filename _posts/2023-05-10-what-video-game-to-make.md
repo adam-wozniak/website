@@ -273,6 +273,50 @@ Here are the publishers I excluded from my data analysis:
 ### SQL examples
 In total, I wrote over sixty SQL queries during my analysis of the Steam data set. Here are six of my favourite SQL queries:
 
+```
+/*
+This query identifies each game as either complex to make, or non-complex, based on my own knowledge of game dev and the complexity of developing the features listed in the categories column. The categories column contains a comma-separated list of values. The query below writes values of ‘Y’ or ’N’ to a new column I created in the database.
+*/
+
+UPDATE games
+SET is_complex = CASE
+    WHEN
+    	categories ILIKE ‘%Co-op%’
+    	OR categories ILIKE ‘%Cross-Platform Multiplayer%’
+    	OR categories ILIKE ‘%In-App Purchases%’
+    	OR categories ILIKE ‘%Includes level editor%’
+    	OR categories ILIKE ‘%Includes Source SDK%’
+    	OR categories ILIKE ‘%LAN Co-op%’
+    	OR categories ILIKE ‘%LAN PvP%’
+    	OR categories ILIKE ‘%MMO%’
+    	OR categories ILIKE ‘%Mods%’
+    	OR categories ILIKE ‘%Mods (require HL2)%’
+    	OR categories ILIKE ‘%Multi-player%’
+    	OR categories ILIKE ‘%Online Co-op%’
+    	OR categories ILIKE ‘%Online PvP%’
+    	OR categories ILIKE ‘%PvP%’
+    	OR categories ILIKE ‘%Remote Play on Phone%’
+    	OR categories ILIKE ‘%Remote Play on Tablet%’
+    	OR categories ILIKE ‘%Remote Play on TV%’
+    	OR categories ILIKE ‘%Remote Play Together%’
+    	OR categories ILIKE ‘%Shared/Split Screen%’
+    	OR categories ILIKE ‘%Shared/Split Screen Co-op%’
+    	OR categories ILIKE ‘%Shared/Split Screen PvP%’
+    	OR categories ILIKE ‘%Steam Trading Cards%’
+    	OR categories ILIKE ‘%Steam Turn Notifications%’
+    	OR categories ILIKE ‘%Steam Workshop%’
+    	OR categories ILIKE ‘%SteamVR Collectibles%’
+    	OR categories ILIKE ‘%Tracked Controller Support%’
+    	OR categories ILIKE ‘%Tracked Motion Controller Support%’
+    	OR categories ILIKE ‘%Valve Anti-Cheat enabled%’
+    	OR categories ILIKE ‘%VR Only%’
+    	OR categories ILIKE ‘%VR Support%’
+    	OR categories ILIKE ‘%VR Supported%’
+    THEN ‘Y’
+    ELSE ’N’
+END;
+```
+
 <p>
 <script src="https://gist.github.com/adam-wozniak/d596cfe43bd3d1e9474160c419ff03e0.js"></script>
 <p>
