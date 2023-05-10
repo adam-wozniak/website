@@ -109,7 +109,7 @@ Note with the above animation that if we apply my complexity secret sauce, we ca
 
 It’s the number of less complex games that are skyrocketing every year. And that’s not surprising. Thanks to the democratization of game development in recent years (free tools and resources are more advanced and accessible than ever), more people are making games than ever.
 
-So as an indie game developer, you’re not just competing with the 1000 other games released this month. You’re also competing with the thousands of other games that have already been released, **plus* the 1000 games per month that will be released in future too! Holy data points, Batman!
+So as an indie game developer, you’re not just competing with the 1000 other games released this month. You’re also competing with the thousands of other games that have already been released, **plus** the 1000 games per month that will be released in future too! Holy data points, Batman!
 
 ### Shut up and take my money!
 Most of us are probably aware that the mobile game market is dominated by the free-to-play business model. While that wasn’t the case when smartphones and the first app stores were launched over a decade ago, that’s the reality now. And that’s what happens when there are over a million games in mobile app stores and smartphone users are used to getting things for free. Convincing anyone to pay up-front for a mobile game in that kind of environment is a tough ask.
@@ -207,8 +207,6 @@ Fun fact though: during a real life game of cricket, there will be over 160+ new
 
 But ignoring cricket, looking at tags that are some version of green (and therefore lower complexity on average), and have 50 or more median reviews, the above visualization shows us what kind of games we can make to increase our chances of success! Huzzah!
 
-(If you’d like to explore all 400+ tags, just click on the image below to interact with the visualization on Tableau Public)
-
 ## Right, so what game should I make?
 
 Obviously, a well-written, wholesome, narrative game where the hero is a nude train-driving villain who likes fishing.
@@ -227,11 +225,11 @@ Who knows – maybe one day many of us will be playing your next game!
 
 There are some great resources that dive further into Steam-related data:
 
-[Chris Zukowski](https://howtomarketagame.com/) - leverages insights from his own, in-depth game consulting experience. Chris writes extensively about how to market indie games on Steam. He also offers some excellent paid courses I highly recommend.
+[Chris Zukowski](https://howtomarketagame.com/) – leverages insights from his own, in-depth game consulting experience. Chris writes extensively about how to market indie games on Steam. He also offers some excellent paid courses I highly recommend.
 
-[SteamDB](https://steamdb.info/) - a website that continuously tracks all sorts of data points from Steam, including price history, estimates of lifetime player count and concurrent users, as well as interesting metadata on each game in the Steam database.
+[SteamDB](https://steamdb.info/) – a website that continuously tracks all sorts of data points from Steam, including price history, estimates of lifetime player count and concurrent users, as well as interesting metadata on each game in the Steam database.
 
-[VG Insights](https://vginsights.com/) - a video game market research platform that provides indie developers and publishers with market data. VG Insights uses the Steam API, along with other 3rd party data sources (such as the The Internet Game Database [IGDB](https://www.igdb.com/) and others) to provide estimates on things like sales revenue, number of sales, etc. While some of the info is free, the more in-depth stuff requires a paid subscription.
+[VG Insights](https://vginsights.com/) – a video game market research platform that provides indie developers and publishers with market data. VG Insights uses the Steam API, along with other 3rd party data sources (such as the The Internet Game Database [IGDB](https://www.igdb.com/) and others) to provide estimates on things like sales revenue, number of sales, etc. While some of the info is free, the more in-depth stuff requires a paid subscription.
 
 ### AAA publishers exclusion list
 Here are the publishers I excluded from my data analysis:
@@ -276,48 +274,48 @@ In total, I wrote over sixty SQL queries during my analysis of the Steam data se
 ```
 /*
 This query identifies each game as either complex to make, or non-complex,
-based on my own knowledge of game dev and the complexity of developing the
-features listed in the categories column. The categories column contains a
-comma-separated list of values. The query below writes values of ‘Y’ or ’N’
+based on my own knowledge of game dev and the complexity of developing the 
+features listed in the categories column. The categories column contains a 
+comma-separated list of values. The query below writes values of ‘Y’ or ’N’ 
 to a new column I created in the database.
 */
 
 UPDATE games
 SET is_complex = CASE
     WHEN
-    	categories ILIKE ‘%Co-op%’
-    	OR categories ILIKE ‘%Cross-Platform Multiplayer%’
-    	OR categories ILIKE ‘%In-App Purchases%’
-    	OR categories ILIKE ‘%Includes level editor%’
-    	OR categories ILIKE ‘%Includes Source SDK%’
-    	OR categories ILIKE ‘%LAN Co-op%’
-    	OR categories ILIKE ‘%LAN PvP%’
-    	OR categories ILIKE ‘%MMO%’
-    	OR categories ILIKE ‘%Mods%’
-    	OR categories ILIKE ‘%Mods (require HL2)%’
-    	OR categories ILIKE ‘%Multi-player%’
-    	OR categories ILIKE ‘%Online Co-op%’
-    	OR categories ILIKE ‘%Online PvP%’
-    	OR categories ILIKE ‘%PvP%’
-    	OR categories ILIKE ‘%Remote Play on Phone%’
-    	OR categories ILIKE ‘%Remote Play on Tablet%’
-    	OR categories ILIKE ‘%Remote Play on TV%’
-    	OR categories ILIKE ‘%Remote Play Together%’
-    	OR categories ILIKE ‘%Shared/Split Screen%’
-    	OR categories ILIKE ‘%Shared/Split Screen Co-op%’
-    	OR categories ILIKE ‘%Shared/Split Screen PvP%’
-    	OR categories ILIKE ‘%Steam Trading Cards%’
-    	OR categories ILIKE ‘%Steam Turn Notifications%’
-    	OR categories ILIKE ‘%Steam Workshop%’
-    	OR categories ILIKE ‘%SteamVR Collectibles%’
-    	OR categories ILIKE ‘%Tracked Controller Support%’
-    	OR categories ILIKE ‘%Tracked Motion Controller Support%’
-    	OR categories ILIKE ‘%Valve Anti-Cheat enabled%’
-    	OR categories ILIKE ‘%VR Only%’
-    	OR categories ILIKE ‘%VR Support%’
-    	OR categories ILIKE ‘%VR Supported%’
-    THEN ‘Y’
-    ELSE ’N’
+    	categories ILIKE '%Co-op%'
+    	OR categories ILIKE '%Cross-Platform Multiplayer%'
+    	OR categories ILIKE '%In-App Purchases%'
+    	OR categories ILIKE '%Includes level editor%'
+    	OR categories ILIKE '%Includes Source SDK%'
+    	OR categories ILIKE '%LAN Co-op%'
+    	OR categories ILIKE '%LAN PvP%'
+    	OR categories ILIKE '%MMO%'
+    	OR categories ILIKE '%Mods%'
+    	OR categories ILIKE '%Mods (require HL2)%'
+    	OR categories ILIKE '%Multi-player%'
+    	OR categories ILIKE '%Online Co-op%'
+    	OR categories ILIKE '%Online PvP%'
+    	OR categories ILIKE '%PvP%'
+    	OR categories ILIKE '%Remote Play on Phone%'
+    	OR categories ILIKE '%Remote Play on Tablet%'
+    	OR categories ILIKE '%Remote Play on TV%'
+    	OR categories ILIKE '%Remote Play Together%'
+    	OR categories ILIKE '%Shared/Split Screen%'
+    	OR categories ILIKE '%Shared/Split Screen Co-op%'
+    	OR categories ILIKE '%Shared/Split Screen PvP%'
+    	OR categories ILIKE '%Steam Trading Cards%'
+    	OR categories ILIKE '%Steam Turn Notifications%'
+    	OR categories ILIKE '%Steam Workshop%'
+    	OR categories ILIKE '%SteamVR Collectibles%'
+    	OR categories ILIKE '%Tracked Controller Support%'
+    	OR categories ILIKE '%Tracked Motion Controller Support%'
+    	OR categories ILIKE '%Valve Anti-Cheat enabled%'
+    	OR categories ILIKE '%VR Only%'
+    	OR categories ILIKE '%VR Support%'
+    	OR categories ILIKE '%VR Supported%'
+    THEN 'Y'
+    ELSE 'N'
 END;
 ```
 
@@ -325,8 +323,9 @@ END;
 /*
 This Common Table Expression (CTE) excludes all games published by AAA
 publishers that I have defined in a separate table (excluded_publishers).
-Adding this to the top of any other query allowed me to ensure my analysis
-was only being done on games that were not published by AAA publishers.
+Adding this CTE to the top of any other query allowed me to ensure my
+analysis was only being done on games that were not published by
+AAA publishers.
 
 The publishers field sometimes contains more than one value, hence my
 approach below.
@@ -338,7 +337,7 @@ WITH filtered_games AS (
   WHERE NOT EXISTS (
     SELECT *
     FROM excluded_publishers
-    WHERE games.publishers ILIKE ‘%’ || excluded_publishers.aaa_publisher || ‘%’
+    WHERE games.publishers ILIKE '%' || excluded_publishers.aaa_publisher || '%'
   )
 )
 ```
@@ -365,11 +364,11 @@ LIMIT 10;
 
 ```
 /*
-Using additional Common Table Expressions (CTEs), this query calculates the
-percentage of developers that have released 1 game, 2 games, or 3+ games.
+Using additional Common Table Expressions (CTEs), this query calculates 
+the percentage of developers that have released 1 game, 2 games, or 3+ games.
 
-The query also shows the average and median number of reviews per number of
-games released.
+The query also shows the average and median number of reviews per number
+of games released.
 */
 
 WITH game_counts AS (
@@ -388,12 +387,13 @@ review_counts AS (
 
 SELECT 
   CASE 
-    WHEN count_games = 1 THEN ‘1’
-    WHEN count_games = 2 THEN ‘2’
-    ELSE ‘3 or more games released’
+    WHEN count_games = 1 THEN '1'
+    WHEN count_games = 2 THEN '2'
+    ELSE '3 or more games released'
   END AS count_games_released,
   COUNT(*) * 100 / total_counts.total_counts AS percent_of_developers,
-  ROUND(AVG(total_reviews)::numeric, 0) AS avg_total_reviews, PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY total_reviews) AS median_total_reviews
+  ROUND(AVG(total_reviews)::numeric, 0) AS avg_total_reviews, 
+  PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY total_reviews) AS median_total_reviews
 FROM game_counts
 JOIN total_counts ON 1=1
 JOIN review_counts USING(developers)
@@ -403,8 +403,8 @@ ORDER BY percent_of_developers DESC;
 
 ```
 /*
-This query categorizes the number of games sold at various price point ranges
-and then converts that to percentages of all games.
+This query categorizes the number of games sold at various 
+price point ranges and then converts that to percentages of all games.
 
 The query also shows the average and median number of reviews for
 each price point.
@@ -412,14 +412,14 @@ each price point.
 
 SELECT 
   CASE
-    WHEN price = 0 THEN ‘Free’
-    WHEN price <= 5 THEN ‘$0 - $5’
-    WHEN price <= 10 THEN ‘$6 - $10’
-    WHEN price <= 20 THEN ‘$11 - $20’
-    WHEN price <=50 THEN ‘$21 - $50’
-    WHEN price <=75 THEN ‘$51 - $75’
-    WHEN price <=100 THEN ‘$76 - $100’
-    ELSE ‘More than $100’
+    WHEN price = 0 THEN 'Free'
+    WHEN price <= 5 THEN '$0 - $5'
+    WHEN price <= 10 THEN '$6 - $10'
+    WHEN price <= 20 THEN '$11 - $20'
+    WHEN price <=50 THEN '$21 - $50'
+    WHEN price <=75 THEN '$51 - $75'
+    WHEN price <=100 THEN '$76 - $100'
+    ELSE 'More than $100'
   END AS price_category,
   ROUND(COUNT(*)::numeric / (SELECT COUNT(*) FROM games) * 100, 2) as percent,
   ROUND(AVG(positive + negative)::numeric, 0) AS avg_number_of_reviews,
@@ -431,12 +431,12 @@ ORDER BY 2 DESC;
 
 ```
 /*
-This query splits the comma-separated tags field into a new column and
-calculates the average and median number of reviews per tag.
+This query splits the comma-separated tags field into a new column
+and calculates the average and median number of reviews per tag.
 
-The query also averages the level of complexity of all games in each tag,
-and the HAVING clause then filters the results to only show games with
-median reviews >= 50 and complexity score <= 50
+The query also averages the level of complexity of all games in each
+tag, and the HAVING clause then filters the results to only show
+games with median reviews >= 50 and complexity score <= 50
 */
 
 SELECT
@@ -444,9 +444,9 @@ SELECT
   ROUND(COUNT(*)::numeric / (SELECT COUNT(*) FROM games) * 100, 2) AS percent,
   ROUND(AVG(positive + negative)::numeric, 0) AS avg_number_of_reviews,
   PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY positive + negative) AS median_number_of_reviews,
-  ROUND((SELECT AVG(CASE WHEN is_complex = ‘Y’ THEN 1 ELSE 0 END) FROM games WHERE tag = ANY(string_to_array(tags, ‘,’))) * 100, 2) AS avg_complexity_score
-FROM filtered_games, UNNEST(string_to_array(tags, ‘,’)) tag
+  ROUND((SELECT AVG(CASE WHEN is_complex = 'Y' THEN 1 ELSE 0 END) FROM games WHERE tag = ANY(string_to_array(tags, ','))) * 100, 2) AS avg_complexity_score
+FROM filtered_games, UNNEST(string_to_array(tags, ',')) tag
 GROUP BY tag
-HAVING PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY positive + negative) >= 50 AND ROUND((SELECT AVG(CASE WHEN is_complex = ‘Y’ THEN 1 ELSE 0 END) FROM games WHERE tag = ANY(string_to_array(tags, ‘,’))) * 100, 2) <= 50
+HAVING PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY positive + negative) >= 50 AND ROUND((SELECT AVG(CASE WHEN is_complex = 'Y' THEN 1 ELSE 0 END) FROM games WHERE tag = ANY(string_to_array(tags, ','))) * 100, 2) <= 50
 ORDER BY avg_complexity_score DESC;
 ```
