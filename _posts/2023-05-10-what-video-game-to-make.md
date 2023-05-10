@@ -1,7 +1,7 @@
 ---
 title: What Video Game Should You Make? (Data analysis of Steam)
 date: 2023-05-10 00:00:00
-description: Ever wondered what Keanu Reeves, Batman, cricket, trombones, and a game that costs USD$999 have to do with creating a hit indie video game on #Steam? Read this article to find out...
+description: Ever wondered what Keanu Reeves, Batman, cricket, trombones, and a game that costs USD$999 have to do with creating a hit indie video game on Steam? Read this article to find out...
 featured_image: '/images/indie-game-collage.jpg'
 ---
 
