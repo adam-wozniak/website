@@ -15,7 +15,7 @@ Notable media mentions:
 - [Episode 282](https://retroasylum.com/2022/04/19/episode-282-finish-em-part-2/) of Retro Asylum, the award-winning number 1 retro gaming podcast in the UK
 - [Comma Eight Comma One](https://commaeightcommaone.wordpress.com/tag/freeware/): "...you don’t see solid freeware games like this these days very often." Final Score: 8/10
 
-The game is available now on PC and Mac. [Get it free on Steam](https://store.steampowered.com/app/1835040/Pangaroids/).
+The game is available now on PC and Mac. [Get it FREE on Steam](https://store.steampowered.com/app/1835040/Pangaroids/).
 
 ![](/images/pangaroids.png)
 
