@@ -7,7 +7,7 @@ featured_image: /images/flag-quiz-game.jpg
 
 I never realized just how many world flags I can’t identity. It’s embarrassing. So I made a game about it! It even (appropriately) has a global leaderboard. Will you become number 1?
 
-Get it free on [iOS](https://apps.apple.com/ca/app/guess-the-flag-fast-trivia/id6449620284) and [Android](https://play.google.com/store/apps/details?id=com.DoubleBagelGames.GuessTheFlag)!
+Get it FREE on [iOS](https://apps.apple.com/ca/app/guess-the-flag-fast-trivia/id6449620284) and [Android](https://play.google.com/store/apps/details?id=com.DoubleBagelGames.GuessTheFlag)!
 
 <div class="gallery" data-columns="2">
 	<img src="/images/flag-quiz-game-01.png">
@@ -18,4 +18,4 @@ Get it free on [iOS](https://apps.apple.com/ca/app/guess-the-flag-fast-trivia/id
 	<img src="/images/flag-quiz-game-06.png">
 </div>
 
-Get it free on [iOS](https://apps.apple.com/ca/app/guess-the-flag-fast-trivia/id6449620284) and [Android](https://play.google.com/store/apps/details?id=com.DoubleBagelGames.GuessTheFlag)!
+Get it FREE on [iOS](https://apps.apple.com/ca/app/guess-the-flag-fast-trivia/id6449620284) and [Android](https://play.google.com/store/apps/details?id=com.DoubleBagelGames.GuessTheFlag)!
