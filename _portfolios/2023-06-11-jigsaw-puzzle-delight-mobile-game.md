@@ -2,7 +2,7 @@
 title: Jigsaw Puzzle Delight (iOS/Android)
 date: 2023-06-11 00:00:00
 description: My fourth mobile game, and my most polished one yet. Jigsaw Puzzle Delight is an elegant jigsaw experience without all the clutter, ads, and in-app purchases. Containing 12 hours of gameplay, and my own photography, you can get it FREE on iOS and Android...
-featured_image: /images/flag-quiz-game.jpg
+featured_image: /images/jigsaw-puzzle-delight-game.jpg
 ---
 
 Jigsaw Puzzle Delight is my fourth mobile game, and my most polished one yet. Containing 12 hours of gameplay, it’s an elegant jigsaw experience without all the clutter, ads, and in-app purchases. It’s also my most “personal” game so far, giving me a unique way to share my own photography with the world. (Instead of using stock photography like the majority of other jigsaw puzzle games out there)
