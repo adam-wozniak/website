@@ -5,7 +5,7 @@ description: In 2021, after taking over from a departing VP and being promoted t
 featured_image: /images/pexels-pixabay-54101.jpg
 ---
 
-In 2021, after taking over from a departing VP and being promoted to Director, Operations at a leading tech consulting company in Toronto, I moved quickly to streamline the way we staffed our client projects by:
+In 2021, after taking over from a departing VP and being promoted to Director, Operations at a leading tech consulting company, I moved quickly to streamline the way we staffed our client projects by:
 
 - Improving processes, including condensing multiple, separate meetings into leading one major weekly 20+ person staffing meeting, which ensured all the relevant stakeholders were always in the same room so that we could make decisions faster.
 - Improving communication to ensure everyone was on the same page and no one ever felt surprised by a) who was rolling off a project, b) who was rolling on, c) what staffing requests were currently active, d) how and why staffing decisions were made on projects.
