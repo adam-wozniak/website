@@ -1,7 +1,7 @@
 ---
 title: Streamlining resourcing
 date: 2023-04-02 00:00:00
-description: In 2021, after taking over from a departing VP and being promoted to Director, Operations at a leading tech consulting company in Toronto, I moved quickly to streamline the way we staffed our client projects by...
+description: In 2021, after taking over from a departing VP and being promoted to Director, Operations at a leading tech consulting company, I moved quickly to streamline the way we staffed our client projects by...
 featured_image: /images/pexels-pixabay-54101.jpg
 ---
 
