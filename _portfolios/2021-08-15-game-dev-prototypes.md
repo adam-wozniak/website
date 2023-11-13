@@ -5,7 +5,7 @@ description: In June 2020, I decided to learn game development, using Unity and 
 featured_image: /images/game-dev-prototypes.jpg
 ---
 
-In June 2020, I decided to learn game development, using Unity and C#. I gave myself a goal of building 40 prototypes in 12 months, while working on this for at least 15 minutes daily. In March 2021, I achieved my goal.
+In June 2020, I decided to learn game development, using Unity and C#. I gave myself a goal of building 40 prototypes in 12 months, while working on this for at least 15 minutes daily. In March 2021, I achieved my goal (and built 43!).
 
 <div class="gallery" data-columns="2">
 	<img src="/images/game-dev-prototype-01.jpg">
@@ -28,4 +28,4 @@ In June 2020, I decided to learn game development, using Unity and C#. I gave my
     <img src="/images/game-dev-prototype-18.jpg">
 </div>
 
-You can play all 43 prototypes in your browser [here](https://www.oncollisionenter.com/).
+You can play all 43 prototypes in your browser [here](https://silver-hornet.github.io).
