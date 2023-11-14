@@ -11,7 +11,7 @@ Or you’ve tried, sporadically, for a few weeks, before it fizzled out? Again?
 
 Hey, that makes two of us. It gets kind of frustrating, right?
 
-So this past year, I’ve thrown myself into a daily experiment to solve this once and for all.
+So this past year (2020-21), I’ve thrown myself into a daily experiment to solve this once and for all.
 
 Whether you’re looking to learn programming, a new language, a musical instrument, or any new skill or hobby, I’m hoping that you find this article useful in some way. I’m not an expert by any means, so all I can share is what has worked for me. But if there’s one major thing this 12-month experiment has taught me, is how much joy and happiness the learning process can bring to one’s life. And, really, if there’s one thing we, as human beings, have incredible capacity for, is learning. It’s the foundation for everything.
 
