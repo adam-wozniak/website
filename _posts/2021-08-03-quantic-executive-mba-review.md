@@ -9,7 +9,7 @@ If you’re reading this, chances are that you’ve thought about doing an MBA a
 
 Hopefully, the experience I’ll share below might help you decide whether an MBA is something of interest to you, and, if so, share an option that you may not have considered.
 
-I first started thinking about an MBA about 3 years ago. At the time, I felt I was stagnating in my career, and wasn’t finding many opportunities to keep learning and growing at my then company.
+I first started thinking about an MBA a few years ago. At the time, I felt I was stagnating in my career, and wasn’t finding many opportunities to keep learning and growing at my then company.
 
 So I started thinking about doing some courses, certifications, or other qualifications. But after a number of degrees and a post-grad diploma, I had minimal enthusiasm to commit myself to another long experience of that sort again.
 
