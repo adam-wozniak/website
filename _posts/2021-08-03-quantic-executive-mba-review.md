@@ -5,7 +5,7 @@ description: If you’re reading this, chances are that you’ve thought about d
 featured_image: '/images/quantic-review.jpg'
 ---
 
-If you’re reading this, chances are that you’ve thought about doing an MBA at some point. Perhaps you are hesitant about some combination of the benefits, the time commitment, and – most importantly – the cost. Especially considering many MBA programs cost over $115k...
+If you’re reading this, chances are that you’ve thought about doing an MBA at some point. Perhaps you are hesitant about some combination of the benefits, the time commitment, and – most importantly – the cost. Especially considering many MBA programs cost over $115k... an absolutely eye-popping amount of money.
 
 Hopefully, the experience I’ll share below might help you decide whether an MBA is something of interest to you, and, if so, share an option that you may not have considered.
 
