@@ -30,7 +30,7 @@ Doing an MBA just so I could say I have an MBA was of zero interest to me. A lot
 ## Brand
 MBAs are often associated with brand names, such as Stanford, Wharton, MIT, Harvard, UC Berkeley. There are some people that suggest it’s not worthwhile to pursue an MBA unless it’s with one of these top-tier institutions. The thought being that such a brand name on one’s resume provides instant cache and credibility.
 
-And, you know, I don’t dispute that these names have an effect on people. We live in a world of brand marketing, exclusivity, and hype after all. Whether we like it or not.
+And, you know, I don’t dispute that these names have an effect on people. We live in a world of brand marketing, perception, exclusivity, and hype after all. Whether we like it or not.
 
 But for an MBA, this was not something that was interesting to me.
 
