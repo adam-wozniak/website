@@ -42,6 +42,4 @@ In January 2012, I packed up my life and left Australia on a one-way ticket to e
     <img src="/images/travel-photo-blog-32.jpg">
 </div>
 
-To see more, you can visit my old travel photo blog.
-
-Or, for an even more unique experience, you can see some of my photos in my [jigsaw puzzle mobile game](http://www.adamwozniak.com/personal/jigsaw-puzzle-delight-mobile-game) released on iOS and Android in June 2023.
+For an even more unique experience, you can see some of my travel blog photos in my [jigsaw puzzle mobile game](http://www.adamwozniak.com/personal/jigsaw-puzzle-delight-mobile-game) released on iOS and Android in June 2023.
