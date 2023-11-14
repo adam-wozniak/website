@@ -244,7 +244,7 @@ Forget about starting tomorrow or next week or next month. Start today. For 15 m
 
 But if we don’t start today, that year will pass anyway. And then, 12 months from now, instead of saying we have a year’s experience, we’ll still have none. And we’ll still be telling ourselves, “I’ll try this soon.” The problem is, we only have a finite number of years we can keep telling ourselves that.
 
-A year flies by. I can’t believe it’s already been 12-months of game dev. And yet here I am, in mid-2021, genuinely surprised at how much I’ve learned during this time. Want to try some of my prototypes? Check ‘em out [here](https://silver-hornet.github.io). Or you can play my first mobile game on [iOS](https://apps.apple.com/ca/app/super-shuffleboard/id1585158031) and [Android](https://play.google.com/store/apps/details?id=com.AdamWozniak.Shuffleboard).
+A year flies by. I can’t believe it’s already been 12 months of game dev. And yet here I am, in mid-2021, genuinely surprised at how much I’ve learned during this time. Want to try some of my prototypes? Check ‘em out [here](https://silver-hornet.github.io). Or you can play my first mobile game on [iOS](https://apps.apple.com/ca/app/super-shuffleboard/id1585158031) and [Android](https://play.google.com/store/apps/details?id=com.AdamWozniak.Shuffleboard).
 
 As an old Chinese proverb says:
 
