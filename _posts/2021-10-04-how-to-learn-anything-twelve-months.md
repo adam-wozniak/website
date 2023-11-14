@@ -131,7 +131,7 @@ There really is no secret here. We each have 24 hours every day. Since I’m not
 
 I get that everyone’s personal circumstances are different. But ultimately, it will always come down to priorities and what we are willing to say no to. There’s no way around that. It’s the only way we can find pockets of time.
 
-At various times during the past 12 months, I’ve had to say no to:
+At various times during the past 12 months, I’ve said no to:
 - almost any social activity outside of work (although I still made an effort to stay in touch, even if it was only an occasional phone call while making dinner, or a friend joining me for my daily walk)
 - reading news
 - reading / researching stuff that isn’t connected to my day job or game dev
@@ -144,7 +144,7 @@ At various times during the past 12 months, I’ve had to say no to:
 - virtually every other hobby
 - and [FOMO](https://en.m.wikipedia.org/wiki/Fear_of_missing_out)
 
-I’m not perfect, of course, so I did slip up on some of the above from time-to-time. But you get the idea.
+I’m not perfect, of course, so I did slip up on some of the above from time-to-time. And I'm not saying I'll continue to say no to all this stuff in future. But you get the idea.
 
 Your list may end up being different. But the point is that something needs to go. And probably not just one thing, but many.
 
