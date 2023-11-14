@@ -45,7 +45,7 @@ While these might be potential outcomes of an MBA, they weren’t a driving reas
 
 I say all the above simply to emphasize that my reasons for considering an MBA came down to the desire to learn, gain knowledge, and do this for myself, not for someone else.
 
-But I still wasn’t sure whether I wanted to commit myself to a 1-2 year MBA journey (or 3-4 years part-time). So I did some research and compared the various options I had access to here in Canada.
+But I still wasn’t sure whether I wanted to commit myself to a 1-2 year MBA journey (or 3-4 years part-time). So I did some research and compared the various options I had access to.
 
 The options didn’t fill me with hope. The “cheapest” options I could find in traditional universities still ranged from $20k-$50k, while more well-known options started from $80k in Canada, and over $115k in the US. And let’s not forget these options often require you to quit your job as well, thereby increasing the cost even more.
 
