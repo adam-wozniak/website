@@ -43,7 +43,7 @@ And that was it. Just five norms. And here’s what happened after 12 months...
 ![](/images/pexels-vi-nowak-1002272.jpg)
 
 ## 12 months later
-Recently, I celebrated the 12-month milestone. It wasn’t easy, of course, but it was more fun and rewarding than I expected. And the results have blown me away.
+In mid-2021, I celebrated the 12-month milestone. It wasn’t easy, of course, but it was more fun and rewarding than I expected. And the results have blown me away.
 
 Here’s what I’ve accomplished in my first 12 months of learning game development daily:
 
@@ -54,8 +54,8 @@ Here’s what I’ve accomplished in my first 12 months of learning game develop
 - 56 GitHub repos created
 - 884 GitHub contributions
 - 43 prototypes of various game genres
-- 1 prototype of a game that will become my [first mobile game release](http://www.adamwozniak.com/personal/first-mobile-video-game) (now available on [iOS](https://apps.apple.com/ca/app/super-shuffleboard/id1585158031) and [Android](https://play.google.com/store/apps/details?id=com.AdamWozniak.Shuffleboard))
-- A small, simple portfolio website showcasing my 43 prototypes [here](https://www.oncollisionenter.com/portfolio/)
+- 1 prototype of a game that has since become my [first mobile game release](http://www.adamwozniak.com/personal/first-mobile-video-game) (now available on [iOS](https://apps.apple.com/ca/app/super-shuffleboard/id1585158031) and [Android](https://play.google.com/store/apps/details?id=com.AdamWozniak.Shuffleboard))
+- A small, simple portfolio website showcasing my 43 prototypes [here](https://silver-hornet.github.io)
 - And a draft of this blog post
 
 It has been an incredible journey. Most of the 43 prototypes I created were from following tutorials, but 3 were my very own prototypes too.
