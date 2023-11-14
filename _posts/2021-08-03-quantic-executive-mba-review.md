@@ -66,7 +66,7 @@ Quantic was also offering an online library, paid research databases, lifelong a
 
 With a [price tag of USD$9600](https://quantic.edu/sponsored-tuition/students), but with generous scholarships available (even reducing the price down to $0 for some students), Quantic was offering a truly accessible education.
 
-And while other traditional MBA programs were offering a 1-2 year full-time program (or 3-4 years part-time), Quantic was offering an accelerated, 13-month part-time experience instead. Something that wouldn’t require me to quit my job. (An insane luxury that few of us can actually afford)
+And while other traditional MBA programs were offering a 1-2 year full-time program (or 3-4 years part-time), Quantic was offering an accelerated, 13-month part-time experience instead. Something that wouldn’t require me to quit my job. (A luxury that few of us can actually afford)
 
 Did this all sound too good to be true?
 
