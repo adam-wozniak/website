@@ -74,14 +74,14 @@ The skeptic in me thought it did, but Quantic was offering an [introductory Busi
 
 So I tried their Business Foundations course and was genuinely impressed by how engaging and interactive their approach was. I was sold. If I was ever ready to do an MBA, Quantic was going to be my choice.
 
-But then life got in the way for a year or two, so I put thoughts of an MBA aside until now...
+But then life got in the way for a few years, so I put thoughts of an MBA aside until now...
 
 ## Why now?
 When the pandemic hit and we all went into lockdown in March 2020, my thoughts turned to how uncertain and unpredictable the future was going to be. I didn’t think this was going to be a hiccup of a few weeks or maybe a few months. The global scale of the issue convinced me that this would be a crisis that lasts for years. Having experienced a lot of personal crises in my life to that point, I wanted to do everything in my (limited) control to mitigate the new challenges that were coming.
 
 And if life was now going to involve lots of lockdowns, I may as well try to make the most of my time indoors. A year was going to fly by (even if the first few weeks felt like an eternity). I wanted to feel like, no matter what, I could look back at this time and feel I spent it as constructively as possible.
 
-So in March 2020, facing the possibility of lay-offs (as we were seeing in many, many companies around the world), I revisited my learning plans from a year or two before and remembered how much I liked what Quantic was offering. By the end of March, I had submitted my application.
+So in March 2020, facing the possibility of lay-offs (as we were seeing in many, many companies around the world), I revisited my learning plans from years before and remembered how much I liked what Quantic was offering. By the end of March, I had submitted my application.
 
 After being selected in their admissions process, I was invited to an interview, which further convinced me that I was making the right decision. Upon being admitted, I started my Executive MBA journey in June 2020.
 
