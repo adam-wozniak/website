@@ -142,7 +142,7 @@ Even though I only needed to complete 3 specializations, I enjoyed the program s
 ### Assignments and Exams
 There were two aspects that I loved about Quantic’s assignments.
 
-Firstly, I was given a choice to do my assignments individually or in a group. Many university programs force students into group assignments, with no regard whether this actually ends up being an optimal experience for some (it’s likely designed to reduce the grading workload for teachers). I actually focus and learn more while working independently - so it was great to get this option and really maximize my own learning. I already get lots of great experience working in teams in my day-to-day career.
+Firstly, I was given a choice to do my assignments individually or in a group. Many university programs force students into group assignments, with no regard whether this actually ends up being an optimal experience for some (it’s likely designed to reduce the grading workload for teachers). I actually focus and learn more while working independently – so it was great to get this option and really maximize my own learning. I already get lots of great experience working in teams in my day-to-day career.
 
 The other aspect I liked was the format of the assignments. They were all very practical and relevant. From an accounting assignment involving writing up financial statements and then analyzing the financial health of a company, to analyzing the leadership decisions of the founder of ZipCar, to analyzing potential strategies for expanding formerly successful startup, Managed by Q. There were no forced, boring essays to write, or other assignments that have no real world application.
 
@@ -185,7 +185,7 @@ Quantic has done a great job by removing that variable, and presenting a well bu
 ### Class interaction
 If you crave in-person interaction with fellow students in a physical classroom, then Quantic might not be for you.
 
-Having said that, Quantic does make an effort to offer various, regular (optional) Zoom sessions, from Ask Me Anything’s (with interesting guests), to book clubs, documentary clubs, podcast clubs, location-based virtual meetups, and industry-based virtual meetups. Combined with the group Slack workspace you get access to (with over 100 students in each cohort), and there really is plenty of [opportunity for interaction](https://quantic.edu/student-experience) and development of new friendships.
+Having said that, Quantic does make an effort to offer various, regular (optional) Zoom sessions, from Ask Me Anything’s (with interesting guests), to book clubs, documentary clubs, podcast clubs, location-based virtual meetups, and industry-based virtual meetups. Combined with the Slack group workspace you get access to (with over 100 students in each cohort), and there really is plenty of [opportunity for interaction](https://quantic.edu/student-experience) and development of new friendships.
 
 Ultimately, this aspect of the program is whatever you make of it. Be as involved, or not, as you and your circumstances allow. Just be intentional with what you choose.
 
