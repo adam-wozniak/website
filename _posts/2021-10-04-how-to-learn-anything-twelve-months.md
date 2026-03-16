@@ -13,9 +13,9 @@ Hey, that makes two of us. It gets kind of frustrating, right?
 
 So this past year (2020-21), I’ve thrown myself into a daily experiment to solve this once and for all.
 
-Whether you’re looking to learn programming, a new language, a musical instrument, or any new skill or hobby, I’m hoping that you find this article useful in some way. I’m not an expert by any means, so all I can share is what has worked for me. But if there’s one major thing this 12-month experiment has taught me, is how much joy and happiness the learning process can bring to one’s life. And, really, if there’s one thing we, as human beings, have incredible capacity for, is learning. It’s the foundation for everything.
+Whether you’re looking to learn programming, a new language, a musical instrument, or any new skill or hobby, I’m hoping that you find this article useful in some way. I'm sharing what has worked for me, because if there’s one major thing this 12-month experiment has taught me, it's how much joy and happiness the learning process can bring to one’s life. And, really, if there’s one thing we, as human beings, have incredible capacity for, is learning. It’s the foundation for everything.
 
-I’ve always had a [creative itch](http://www.adamwozniak.com/personal/) I needed to scratch. In the past, that has resulted in things like making comedy shows on community radio, producing a comedy TV pilot, writing screenplays, attempting podcast episodes, or even just doing karaoke (poorly). When I go too long without scratching that creative itch, I get agitated and something feels missing from my life.
+I’ve always had a creative itch I needed to scratch. In the past, that has resulted in things like making comedy shows on community radio, producing a comedy TV pilot, writing screenplays, attempting podcast episodes, or even just doing karaoke (poorly). When I go too long without scratching that creative itch, I get agitated and something feels missing from my life.
 
 For many years, I had wanted to learn game development as a hobby. I felt like it was an interesting way to combine elements of all these other creative outlets with my love of games in general. So in June 2020, I told myself this would finally be the time I give it a good try. I was aware how many times in the past I’ve tried learning a new hobby, and it just fizzled after a few weeks. I was tired of seeing that happen over and over.
 
@@ -82,7 +82,7 @@ A strong why, while absolutely important, also needs to be connected to a strong
 
 My strong how was very simple and measurable. My initial focus was on completing that one, 35-hour beginner course. Once I finished that, I realized that I really liked game dev. I wanted to continue working on it daily, but now needed a new goal.
 
-So I made an ambitious goal of building 40 prototypes. This meant I’d have to build a prototype roughly every week and a half. So that created a sharp constraint. The prototypes would have to be small. And I decided I’d build them with guardrails – by following along with tutorials and courses. The 40 prototypes I chose to do were a mix of different game genres, as well as simple remakes of well-known classic games. Everything from Pong, Frogger, Space Invaders, Asteroids, Pacman, Tetris right through to more modern classics, such as endless runners, 2D platformers, Match-Three games, Doodle Jump, Cut the Rope, and Angry Birds.
+So I made an ambitious goal of building 40 prototypes. This meant I’d have to build a prototype roughly every week and a half. So that created a sharp constraint. The prototypes would have to be small. And I decided I’d build them with guardrails – by following along with tutorials and courses. The 40 prototypes I chose to do were a mix of different game genres, as well as simple remakes of well-known classic games. Everything from Pong, Frogger, Space Invaders, Asteroids, Pacman, Tetris right through to more modern classics, such as endless runners, 2D platformers, Match 3 games, Doodle Jump, Cut the Rope, and Angry Birds.
 
 Having this 40 prototype goal gave me laser focus.  All I had to do was show up every single day. Even on crappy days. Just showing up and typing code while following along with videos was still making progress.
 
@@ -110,7 +110,7 @@ Yes, this all sounds like the most cliched advice imaginable. It is. But it’s 
 
 But why not just skip a few days and then “make up for it” by doing 7 hours once a week on a weekend? Deep down, you and I both know that’s not going to work. We’re not going to retain anything. We’ll start bargaining with ourselves. And we’ll eventually start finding reasons not to continue with it.
 
-Learning something new has to become a habit. It has to become a routine. And it can’t do that if it’s only once a week or only on days when we feel particularly motivated to do it. 
+Learning something new has to become a habit. It has to become a routine. And it can’t become that if it only happens once a week or only on days when we feel particularly motivated. 
 
 Working on it every day is a way to trick our brains into understanding, “Hey, this seems to be important since I’m doing it every day. I better start retaining and understanding this.”
 
@@ -144,9 +144,7 @@ At various times during the past 12 months, I’ve said no to:
 - virtually every other hobby
 - and [FOMO](https://en.m.wikipedia.org/wiki/Fear_of_missing_out)
 
-I’m not perfect, of course, so I did slip up on some of the above from time-to-time. And I'm not saying I'll continue to say no to all this stuff in future. But you get the idea.
-
-Your list may end up being different. But the point is that something needs to go. And probably not just one thing, but many.
+I'm not saying I'll continue to say no to all this stuff in future. But you get the idea. Your list may end up being different. But the point is that something needs to go. And probably not just one thing, but many.
 
 Importantly, this isn’t just about time. It’s also about energy. Some things may only take up time. Some things may only take up energy. And some will exhaust both. So it’s important to be intentional with what we choose to say no to.
 
@@ -167,7 +165,7 @@ Something I’ve done in the past when unsuccessfully pursuing a new hobby or sk
 
 Spoiler alert: it doesn’t exist.
 
-The worst case of this in my own life was the screenwriting hobby I had, on and off, for 13 years. While I did write a number of screenplays, and did produce some, ultimately I spent more time seeking motivation and inspiration, and READING about screenwriting, than I did... you know... actually screenWRITING.
+The worst case of this in my own life was the screenwriting hobby I had, on and off, for several years. While I did write a number of screenplays, and did produce some, ultimately I spent more time seeking motivation and inspiration, and READING about screenwriting, than I did... you know... actually screenWRITING.
 
 So this time, I didn’t make the same mistake with my 12-month game dev journey. Yes, I occasionally did read or watch some motivational / inspirational game dev content during this period, but that was well after I had already established the daily habit and momentum, and the content I was seeking out was more to do with understanding what others had gone through early on in the game dev learning process. At that point, it was just adding gasoline to the fire I had already lit.
 
@@ -176,7 +174,7 @@ So show up and do the work first. If you enjoy it, motivation, inspiration, and 
 Of course, if you genuinely don’t like doing it, then stop and find something else. Life’s too short. Don’t guilt yourself into doing yet another thing you don’t really want to do.
 
 ### 6. You are going to suck for a while
-The hardest part of this process was being okay with being a complete beginner at something again. It’s easy to compare oneself to others... others who aren’t even beginners any more.
+The hardest part of this process was being okay with being a complete beginner at something again. It’s easy to compare oneself to others... others who aren’t actually beginners any more.
 
 The truth is that learning any new skill or hobby will be difficult. And it’s difficult for everyone. But, at the same time, it’s not important to compare our progress to others. Everyone has their own timeline. Some are more naturally gifted than others. Some have head starts, while others start far behind. Some have different life situations than yours or mine.
 
@@ -189,13 +187,13 @@ The most important thing to remember is that it can be done. Others have done it
 ### 7. Learning how to learn
 One of the most valuable lessons this 12-month game dev journey has given me is learning how to learn.
 
-So many of us have been programmed to think of learning as that thing we did in school / university / college. That thing that was often unpleasant, rigid, padded out with uninteresting content delivered by un-engaging teachers (with exceptions, of course... but, sadly, the good ones are a small percentage of the overall, bureaucratic experience), and stretched out for an unnecessarily long time so as to meet the regulatory requirements of what is considered to be “an education”.
+So many of us have been programmed to think of learning as that thing we did in school / university / college. That thing that was often unpleasant, rigid, padded out with uninteresting content delivered by un-engaging teachers (with exceptions, of course!), and stretched out for an unnecessarily long time so as to meet the regulatory requirements of what is considered to be “an education”.
 
 _(Takes a deep breath)_
 
 Wow, I almost went on a massive tangent there...
 
-Taking learning into our own hands is incredibly empowering. It can be scary at times, because so many of us have been programmed to expect someone else to deliver us a curriculum. I know that for me, with this game dev journey, it was a challenging experience to try and craft my own curriculum. I made some mistakes early on (and continue to), but eventually started understanding what to focus on. Some of those things were:
+Taking learning into our own hands is incredibly empowering. It can be scary at times, because so many of us have been programmed to expect someone else to deliver us a curriculum. With this game dev journey, it was a challenging experience to try and craft my own curriculum. I made some mistakes early on (and continue to), but eventually started understanding what to focus on. Some of those things were:
 
 #### Don’t learn stuff you don’t need to know right now
 For my game dev journey, I realized that I didn’t need to learn about game design right now. Or level design, art, animation, music, sound design, narrative, etc. While all these things are definitely interesting and worthwhile areas to eventually learn about, they were not crucial to learning how to code prototypes and game features – which is what I was focusing on.
@@ -210,7 +208,7 @@ Don’t waste time on crappy courses, and trust your intuition on this (rather t
 Whether you’re stuck in an education system, or learning on your own, the quality of learning resources / instruction is always crucial. In this miraculous day and age, there are many high quality resources out there, and often inexpensive and / or free. You can learn anything with just an internet connection.
 
 #### Boil learning down to the essentials
-At its core, what is the thing you’re learning actually about? For game dev, I started realizing that, at its essence, it’s all really about: finding a thing, creating a reference to it, and doing something with it. Looking at it through that lens helped me when I encountered more challenging concepts.
+At its core, what is the thing you’re learning actually about? For game dev, I started realizing that, at its essence, coding a game often consists of: finding a thing, creating a reference to it, and doing something with it. Looking at it through that lens helped me when I encountered more challenging concepts.
 
 #### Focus on applying, rather than memorizing
 Especially for coding, there is an assumption that good coders memorize everything. So that means learning how to code involves memorizing.
@@ -238,9 +236,9 @@ There have been so many times in the last 5 years that I thought about trying ga
 
 Wow, wouldn’t that have been cool.
 
-It’s easy to put off learning something new. Perhaps we feel the timing will be better in future. Maybe in future we’ll have more time or motivation. Or things will just magically align and future us will be a completely different person than current us. (Spoiler alert: it won’t, unless we become different today and start that new skill / hobby)
+It’s easy to put off learning something new. Perhaps we feel the timing will be better in future. Maybe in future we’ll have more time or motivation. Or things will just magically align and future us will be a completely different person than current us. (Spoiler alert: not going to happen unless we become different today and start that new skill / hobby)
 
-Forget about starting tomorrow or next week or next month. Start today. For 15 minutes. And if we stick with it daily, in a year’s time we’ll suddenly have a year of experience. Imagine how that will feel, and what we might be capable of then. Imagine how much more confidence that will give us to keep going, to leverage all that we’ve learned during that time. This process self-generates momentum. Focus on that feeling now. And remember it. It will help drive you.
+So forget about starting tomorrow or next week or next month. Start today. For 15 minutes. And if we stick with it daily, in a year’s time we’ll suddenly have a year of experience. Imagine how that will feel, and what we might be capable of then. Imagine how much more confidence that will give us to keep going, to leverage all that we’ve learned during that time. This process self-generates momentum. Focus on that feeling now. And remember it. It will help drive you.
 
 But if we don’t start today, that year will pass anyway. And then, 12 months from now, instead of saying we have a year’s experience, we’ll still have none. And we’ll still be telling ourselves, “I’ll try this soon.” The problem is, we only have a finite number of years we can keep telling ourselves that.
 
