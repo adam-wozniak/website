@@ -34,13 +34,10 @@ And, you know, I don’t dispute that these names have an effect on people. We l
 
 But for an MBA, this was not something that was interesting to me.
 
-## Recognition
-I also wasn’t interested in doing an MBA to “impress” an employer or potential employer. Nor was it important to me if an employer recognized whether my MBA was from an important enough institution. For me, it’s all about the knowledge instead.
-
 ## Promotion
-It often seems the desire to do an MBA is associated with an expectation of promotion, a pay rise, better opportunities, etc.
+The desire to do an MBA can sometimes be associated with an expectation of promotion, a pay rise, better opportunities, etc.
 
-While these might be potential outcomes of an MBA, they weren’t a driving reason for me either. I certainly had no expectation that an MBA would lead to any automatic change in my career. From my own experience, great employers care more about the value and team-focused attitude you bring, not the letters after your name.
+While these might be potential outcomes of an MBA, they weren’t a driving reason for me. I certainly had no expectation that an MBA would lead to any automatic change in my career.
 
 
 I say all the above simply to emphasize that my reasons for considering an MBA came down to the desire to learn, gain knowledge, and do this for myself, not for someone else.
@@ -52,7 +49,7 @@ The options didn’t fill me with hope. The “cheapest” options I could find 
 But I often look for creative and/or unconventional approaches to problems. So I found one that seemed intriguing...
 
 ## Quantic School of Business and Technology
-Traditional universities are excellent at marketing their programs, making you feel that they will somehow transform your life. But often the reality is quite underwhelming, leaving you with a large debt, and filling 3-5 years of your life with questionable value.
+Traditional universities are excellent at marketing their programs, making you feel that they will somehow transform your life. But sometimes the reality is quite underwhelming, leaving you with a large debt, and filling 3-5 years of your life with questionable value.
 
 But I digress...
 
@@ -77,9 +74,9 @@ So I tried their Business Foundations course and was genuinely impressed by how 
 But then life got in the way for a few years, so I put thoughts of an MBA aside until now...
 
 ## Why now?
-When the pandemic hit and we all went into lockdown in March 2020, my thoughts turned to how uncertain and unpredictable the future was going to be. I didn’t think this was going to be a hiccup of a few weeks or maybe a few months. The global scale of the issue convinced me that this would be a crisis that lasts for years. Having experienced a lot of personal crises in my life to that point, I wanted to do everything in my (limited) control to mitigate the new challenges that were coming.
+When the pandemic hit and we all went into lockdown in March 2020, my thoughts turned to how uncertain and unpredictable the future was going to be. I didn’t think this was going to be a hiccup of a few weeks or a few months. The global scale of the issue convinced me that this would be a crisis that lasts for years. I wanted to do everything in my (limited) control to mitigate the new challenges that were coming.
 
-And if life was now going to involve lots of lockdowns, I may as well try to make the most of my time indoors. A year was going to fly by (even if the first few weeks felt like an eternity). I wanted to feel like, no matter what, I could look back at this time and feel I spent it as constructively as possible.
+And if life was now going to involve lockdowns, I may as well try to make the most of my time indoors. A year was going to fly by (even if the first few weeks felt like an eternity). I wanted to feel like, no matter what, I could look back at this time and feel I spent it as constructively as possible.
 
 So in March 2020, facing the possibility of lay-offs (as we were seeing in many, many companies around the world), I revisited my learning plans from years before and remembered how much I liked what Quantic was offering. By the end of March, I had submitted my application.
 
@@ -92,7 +89,7 @@ And today, 13 months later, I am thrilled to be officially graduating.
 ## So, what did I think of the Quantic EMBA?
 Quantic was one of the best career decisions I have made. I absolutely loved it and do not regret doing this. I felt it was an excellent investment in myself, and, with a partial scholarship, even more so.
 
-Quantic delivered on what it promised, something that I can’t say about a lot of my previous educational experiences, where the marketing never lived up to the reality (and left me with debts I was still paying many, many years later).
+Quantic delivered on what it promised, something that I can’t say about some of my previous educational experiences, where the marketing never lived up to the reality (and left me with debts I was still paying many, many years later).
 
 Strictly from a learning perspective, Quantic was, quite honestly, the best university experience I’ve had.
 
@@ -166,7 +163,7 @@ At 13 months long, part-time, the duration of Quantic’s program felt just righ
 
 But while Quantic’s program is accelerated compared to many other MBAs, the pace felt manageable. Of course, it did involve regular, consistent work and effort. But I felt like Quantic did a great job of eliminating fluff, by focusing on quality over quantity. As such, the material that was presented cut straight to the essence of what was needed.
 
-It’s likely that more traditional (and much longer and more expensive) MBAs go into far more depth and repetition, but is that really necessary? If you end up forgetting most of the details of your MBA once you complete it, why bother spending years on it?
+It’s likely that more traditional (and much longer and more expensive) MBAs go into far more depth and repetition, but is that really necessary?
 
 ### The Price
 At USD$9,600 (but often lower with a scholarship), compared to $25k+, $80k+, and $115k+ options at traditional universities, this one is a no-brainer. Quantic’s EMBA has instantly paid for itself.
@@ -201,9 +198,7 @@ I would also argue that the 4-month, final capstone project gives plenty of oppo
 Once again, Quantic is what you make of it. The opportunities are there to go deeper, if you choose to. Just like life, it is what you make of it.
 
 ## What did I get from this experience?
-My main goal was knowledge, and I got what I was after. While everyone ends up forgetting most of what they learned in an MBA (let’s not pretend we don’t...), being exposed to so many business concepts, models, and terms definitely stretched my abilities. I now have a lot of new knowledge and confidence I can draw on in future.
-
-I also looked for opportunities to apply some of what I learned to my current company, resulting in creating internal initiatives such as one about [measuring team health and engagement](https://rangle.io/blog/measuring-team-health-and-engagement).
+My main goal was knowledge, and I got what I was after. Being exposed to so many business concepts, models, and terms definitely stretched my abilities. I now have a lot of new knowledge and confidence I can draw on in future.
 
 While I’m not someone who is obsessed with business and entrepreneurship for the sake of it, working on the final capstone project (a 4-month, 70+ page comprehensive business plan and subsequent presentation) revealed a strong interest in potentially pursuing an entrepreneurial venture one day.
 
