@@ -43,7 +43,7 @@ There’s also some secret sauce I’ve added to all the above that might give y
 But before diving into all that, it’s important to mention what my data analysis approach involved.
 
 ### Analysis approach – A focus on review numbers
-The data Steam makes available via their API does not contain sales figures (such as number of sales, revenue generated, wishlists, etc). There are other websites ([such as this one](https://lava.vginsights.com/insights/article/how-to-estimate-steam-video-game-sales)) that attempt to estimate these sorts of figures, usually through some combination of number of reviews, price points, signals from other websites and sources, and ultimately their own proprietary algorithms that take all this info together and apply some combination of weightings and multipliers (with fancy names like “the boxlieter method”). But even then, this is not a precise science. Additionally, price points are constantly fluctuating through various sales events, so that complicates matters further.
+The data Steam makes available via their API does not contain sales figures (such as number of sales, revenue generated, wishlists, etc). There are other websites out there that attempt to estimate these sorts of figures, usually through some combination of number of reviews, price points, signals from other websites and sources, and ultimately their own proprietary algorithms that take all this info together and apply some combination of weightings and multipliers (with fancy names like “the boxlieter method”). But even then, this is not a precise science. Additionally, price points are constantly fluctuating through various sales events (and currency changes!), so that complicates matters further.
 
 For the purpose of my analysis, I am greatly simplifying this entire approach. Thankfully, Steam does make review numbers available, so it’s a safe assumption that if players like a game, that game is likely to have reviews. And the more reviews (regardless of positive or negative sentiment), the more likely that game sold more copies.
 
@@ -54,9 +54,9 @@ So it makes sense to make a game that Steam users are likely to review.
 ### The secret sauce – Technical complexity
 There is one specific approach I have used in analyzing Steam data that I don’t see others doing.
 
-As an indie game developer, it’s not enough to know what game to make to increase your chances of success. If it turns out that game is actually incredibly complex to develop, then you’re starting off at a major disadvantage.
+As an indie game developer, it’s not enough to know what game to make to increase your chances of success. That game also has to be feasible to make. If it turns out it's actually incredibly complex to develop, then you’re starting off at a major disadvantage.
 
-As indie video game developers, our major strength is our agility. We can move quickly. We can make a decision on the spot. We can change our mind. We can constantly test and iterate. We can wear many different hats. And none of this involves constantly having to book meetings with dozens of stakeholders from different departments to constantly align everyone while juggling unnecessary office politics... We can just focus on execution. Because ultimately, that’s the only thing that will matter.
+As indie video game developers, our major strength is our agility. We can move quickly. We can make decisions on the spot. We can change our mind. Often. We can constantly test and iterate. We can wear many different hats. And we (usually) don't need to spend time aligning various stakeholders. We can just focus on execution. Because ultimately, that’s the only thing that will matter.
 
 However, the weakness most of us have is that we simply do not have the time, resources, capabilities, scale, funds, brand reputation, or marketing power to make the types of games AAA publishers do.
 
@@ -74,9 +74,9 @@ Using my own knowledge and experience of game development, I decided to label ea
 
 *(Note the above is on a logarithmic scale)*
 
-Using this approach, I then labelled a game as complex to make if it contained **any** of the orange categories above. Not surprisingly, many of these orange categories revolve around multiplayer functionality.
+Using this approach, I then labelled a game as complex to make if it contained **any** of the orange categories above. (Surprisingly, [doors](https://www.theverge.com/22328169/game-development-doors-design-difficult) didn’t make an appearance...)
 
-(Surprisingly, [doors](https://www.theverge.com/22328169/game-development-doors-design-difficult) didn’t make an appearance...)
+But not surprisingly, many of these orange categories revolve around multiplayer functionality.
 
 Of course, this labelling approach isn’t perfect:
 
@@ -84,10 +84,10 @@ Of course, this labelling approach isn’t perfect:
 - Games labelled as non-complex based on the above could still have been complex to make for other reasons.
 - Additionally, like with all this data, it still relies on developers and publishers properly categorizing the data to begin with.
 
-But overall this unique analysis approach gives us a much better idea, on average, which games are actually viable to make as an indie game developer.
+But overall this unique analysis approach gives us a much better idea, on average, which games are actually feasible to make as an indie game developer.
 
 ### Excluding AAA publishers
-Continuing from the above, I also put together my own list of publishers I consider to be AAA. These are usually major companies (often multi-billion-dollar ones, even if they try to downplay that with names like “Tencent”). We don’t want their games gumming up and skewing this data analysis.
+Continuing from the above, I also put together my own list of publishers I consider to be AAA. These are usually major companies (often multi-billion-dollar ones). We don’t want their games gumming up and skewing this data analysis.
 
 It can be difficult deciding which publishers should be excluded in this way, so if you’re interested to see which ones I chose to exclude, see the Appendix at the end of this article.
 
@@ -112,7 +112,7 @@ It’s the number of less complex games that are skyrocketing every year. And th
 So as an indie game developer, you’re not just competing with the 1000 other games released this month. You’re also competing with the thousands of other games that have already been released, **plus** the 1000 games per month that will be released in future too! Holy data points, Batman!
 
 ### Shut up and take my money!
-Most of us are probably aware that the mobile game market is dominated by the free-to-play business model. While that wasn’t the case when smartphones and the first app stores were launched over a decade ago, that’s the reality now. And that’s what happens when there are over a million games in mobile app stores and smartphone users are used to getting things for free. Convincing anyone to pay up-front for a mobile game in that kind of environment is a tough ask.
+Most of us are probably aware that the mobile game market is dominated by the free-to-play business model. While that wasn’t the case when smartphones and the first app stores were launched over a decade ago, that’s the reality now. And that’s what happens when there are over a million games in mobile app stores, and smartphone users are used to getting things for free. Convincing anyone to pay up-front for a mobile game in that kind of environment is a tough ask.
 
 But you’ll be relieved to know that the opposite is true on Steam. The vast majority of games on Steam are paid.
 
