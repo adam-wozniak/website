@@ -15,8 +15,6 @@ So this past year (2020-21), I’ve thrown myself into a daily experiment to sol
 
 Whether you’re looking to learn programming, a new language, a musical instrument, or any new skill or hobby, I’m hoping that you find this article useful in some way. I'm sharing what has worked for me, because if there’s one major thing this 12-month experiment has taught me, it's how much joy and happiness the learning process can bring to one’s life. And, really, if there’s one thing we, as human beings, have incredible capacity for, is learning. It’s the foundation for everything.
 
-I’ve always had a creative itch I needed to scratch. In the past, that has resulted in things like making comedy shows on community radio, producing a comedy TV pilot, writing screenplays, attempting podcast episodes, or even just doing karaoke (poorly). When I go too long without scratching that creative itch, I get agitated and something feels missing from my life.
-
 For many years, I had wanted to learn game development as a hobby. I felt like it was an interesting way to combine elements of all these other creative outlets with my love of games in general. So in June 2020, I told myself this would finally be the time I give it a good try. I was aware how many times in the past I’ve tried learning a new hobby, and it just fizzled after a few weeks. I was tired of seeing that happen over and over.
 
 So this time, I set myself five norms. Five norms that can be applied to learning anything:
