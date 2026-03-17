@@ -87,7 +87,7 @@ Of course, this labelling approach isn’t perfect:
 But overall this unique analysis approach gives us a much better idea, on average, which games are actually feasible to make as an indie game developer.
 
 ### Excluding AAA publishers
-Continuing from the above, I also put together my own list of publishers I consider to be AAA. These are usually major companies (often multi-billion-dollar ones). We don’t want their games gumming up and skewing this data analysis.
+Continuing from the above, I also put together my own list of publishers I consider to be AAA. These are usually major companies (often multi-billion-dollar ones). We don’t want their games heavily skewing this data analysis.
 
 It can be difficult deciding which publishers should be excluded in this way, so if you’re interested to see which ones I chose to exclude, see the Appendix at the end of this article.
 
