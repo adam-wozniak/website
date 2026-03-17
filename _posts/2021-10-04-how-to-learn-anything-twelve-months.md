@@ -163,8 +163,6 @@ Something I’ve done in the past when unsuccessfully pursuing a new hobby or sk
 
 Spoiler alert: it doesn’t exist.
 
-The worst case of this in my own life was the screenwriting hobby I had, on and off, for several years. While I did write a number of screenplays, and did produce some, ultimately I spent more time seeking motivation and inspiration, and READING about screenwriting, than I did... you know... actually screenWRITING.
-
 So this time, I didn’t make the same mistake with my 12-month game dev journey. Yes, I occasionally did read or watch some motivational / inspirational game dev content during this period, but that was well after I had already established the daily habit and momentum, and the content I was seeking out was more to do with understanding what others had gone through early on in the game dev learning process. At that point, it was just adding gasoline to the fire I had already lit.
 
 So show up and do the work first. If you enjoy it, motivation, inspiration, and momentum will find you.
