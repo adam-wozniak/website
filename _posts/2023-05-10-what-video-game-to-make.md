@@ -54,7 +54,7 @@ So it makes sense to make a game that Steam users are likely to review.
 ### The secret sauce – Technical complexity
 There is one specific approach I have used in analyzing Steam data that I don’t see others doing.
 
-As an indie game developer, it’s not enough to know what game to make to increase your chances of success. That game also has to be feasible to make. If it turns out it's actually incredibly complex to develop, then you’re starting off at a major disadvantage.
+As an indie game developer, it’s not enough to know what game to make to increase your chances of success. That game also has to be feasible to make. Otherwise, if it turns out to actually be incredibly complex to make, then you’re starting off at a major disadvantage.
 
 As indie video game developers, our major strength is our agility. We can move quickly. We can make decisions on the spot. We can change our mind. Often. We can constantly test and iterate. We can wear many different hats. And we (usually) don't need to spend time aligning various stakeholders. We can just focus on execution. Because ultimately, that’s the only thing that will matter.
 
